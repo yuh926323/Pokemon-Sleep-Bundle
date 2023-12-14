@@ -102,7 +102,7 @@ INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc
 	 (95,'md_pokemon_incense_name_288',95,'1,4','md_pokemon_incense_desc_1'),
 	 (96,'md_pokemon_incense_name_289',96,'1,4','md_pokemon_incense_desc_1'),
 	 (97,'md_pokemon_incense_name_462',97,'1','md_pokemon_incense_desc_1'),
-	 (98,'md_pokemon_incense_name_471',98,'4','md_pokemon_incense_desc_1'),
+	 (98,'md_pokemon_incense_name_471',98,'1,4','md_pokemon_incense_desc_1'),
 	 (99,'md_pokemon_incense_name_334',99,'4','md_pokemon_incense_desc_1'),
 	 (100,'md_pokemon_incense_name_447',100,'1,3,4','md_pokemon_incense_desc_1'),
 	 (101,'md_pokemon_incense_name_448',101,'4','md_pokemon_incense_desc_1'),
@@ -123,4 +123,8 @@ INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc
 	 (114,'md_pokemon_incense_name_353',114,'1,3','md_pokemon_incense_desc_1'),
 	 (115,'md_pokemon_incense_name_354',115,'1,3','md_pokemon_incense_desc_1'),
 	 (116,'md_pokemon_incense_name_95',116,'3','md_pokemon_incense_desc_1'),
-	 (117,'md_pokemon_incense_name_208',117,'3','md_pokemon_incense_desc_1');
+	 (117,'md_pokemon_incense_name_208',117,'3','md_pokemon_incense_desc_1'),
+	 (118,'md_pokemon_incense_name_225',118,'1,4','md_pokemon_incense_desc_1'),
+	 (119,'md_pokemon_incense_name_459',119,'1,4','md_pokemon_incense_desc_1'),
+	 (120,'md_pokemon_incense_name_460',120,'1,4','md_pokemon_incense_desc_1'),
+	 (9002,'md_pokemon_incense_name_25',9002,'1','md_pokemon_incense_desc_1');

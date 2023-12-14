@@ -28,4 +28,9 @@ INSERT INTO event_item_packs (id,name,item_types,item_ids,item_nums,"desc",image
 	 (25,'md_event_item_packs_name_14','9,9,18','3,1,2','1,2,10','temp',10,0),
 	 (26,'md_event_item_packs_name_15','9,5,18,29','1,5,2,2','18,2,40,2','temp',11,0),
 	 (27,'md_event_item_packs_name_16','9,5,18,29','3,5,2,2','15,5,100,5','temp',12,0),
-	 (28,'md_event_item_packs_name_3','9,5,5,5','3,2,1,4','9,2,2,2','temp',1001,4);
+	 (28,'md_event_item_packs_name_3','9,5,5,5','3,2,1,4','9,2,2,2','temp',1001,4),
+	 (29,'md_event_item_packs_name_3','9,5,5,5','3,2,1,4','9,2,2,2','temp',1001,5),
+	 (30,'md_event_item_packs_name_17','9,5,10','1,2,1','3,1,3','temp',13,0);
+INSERT INTO event_item_packs (id,name,item_types,item_ids,item_nums,"desc",image_id,label_tag_num) VALUES
+	 (31,'md_event_item_packs_name_18','9,27,10,25','1,1,1,1','20,1,5,3','temp',14,0),
+	 (32,'md_event_item_packs_name_19','9,26,10,25','3,1,2,2','18,1,2,2','temp',15,0);

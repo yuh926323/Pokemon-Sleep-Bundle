@@ -3,4 +3,6 @@ INSERT INTO event_shiny_freq_denominator (id,event_id,pokemon_ids,denominator) V
 	 (2,59,'2',40),
 	 (3,60,'2',40),
 	 (4,61,'2',40),
-	 (5,62,'2',40);
+	 (5,62,'2',40),
+	 (6,72,'0',50),
+	 (7,73,'0',50);

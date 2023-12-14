@@ -123,4 +123,8 @@ INSERT INTO pokedex_data (id,pokemon_id,weight,height,pokedex_number,category_na
 	 (114,114,6,23,353,'md_pokedex_data_category_name_353','md_pokedex_data_desc_353',1,1,0,1,0),
 	 (115,115,11,125,354,'md_pokedex_data_category_name_354','md_pokedex_data_desc_354',1,1,0,1,0),
 	 (116,116,88,2100,95,'md_pokedex_data_category_name_95','md_pokedex_data_desc_95',1,1,0,1,0),
-	 (117,117,92,4000,208,'md_pokedex_data_category_name_208','md_pokedex_data_desc_208',1,1,0,1,0);
+	 (117,117,92,4000,208,'md_pokedex_data_category_name_208','md_pokedex_data_desc_208',1,1,0,1,0),
+	 (118,118,9,160,225,'md_pokedex_data_category_name_225','md_pokedex_data_desc_225',1,1,0,1,0),
+	 (119,119,10,505,459,'md_pokedex_data_category_name_459','md_pokedex_data_desc_459',1,1,0,1,0),
+	 (120,120,22,1355,460,'md_pokedex_data_category_name_460','md_pokedex_data_desc_460',1,1,0,1,0),
+	 (9002,9002,4,60,25,'md_pokedex_data_category_name_25','md_pokedex_data_desc_25',1,1,0,1,1);

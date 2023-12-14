@@ -58,4 +58,7 @@ INSERT INTO other_parameters (id,"key",value) VALUES
 	 (66,'use_linking_cord_pokemon_candy_num',5),
 	 (67,'overflow_pokemon_exp_limit',500),
 	 (68,'overflow_pokemon_exp_all_purpose_candy_num',1),
-	 (70,'tutorial_bonus_normal_baitball_num',10);
+	 (70,'tutorial_bonus_normal_baitball_num',10),
+	 (74,'time_change_validate_sec',1800),
+	 (75,'timezone_change_validate_duration_sec',3600),
+	 (76,'timezone_change_validate_count',2);

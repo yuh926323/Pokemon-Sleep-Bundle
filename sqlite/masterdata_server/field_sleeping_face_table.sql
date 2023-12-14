@@ -493,3 +493,18 @@ INSERT INTO field_sleeping_face_table (id,sleeping_face_id) VALUES
 	 (458,458),
 	 (459,459),
 	 (460,460);
+INSERT INTO field_sleeping_face_table (id,sleeping_face_id) VALUES
+	 (461,461),
+	 (462,462),
+	 (463,463),
+	 (464,464),
+	 (465,465),
+	 (466,466),
+	 (467,467),
+	 (468,468),
+	 (469,469),
+	 (470,470);
+INSERT INTO field_sleeping_face_table (id,sleeping_face_id) VALUES
+	 (471,471),
+	 (10003,10003),
+	 (10004,10004);

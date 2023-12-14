@@ -1,0 +1,8 @@
+INSERT INTO sleeptime_promise (id,"day",reward_item_type,reward_item_id,reward_item_num) VALUES
+	 (1,1,4,5,5),
+	 (2,2,17,1,1),
+	 (3,3,2,0,5),
+	 (4,4,4,9,10),
+	 (5,5,5,3,1),
+	 (6,6,2,0,20),
+	 (7,7,25,1,1);

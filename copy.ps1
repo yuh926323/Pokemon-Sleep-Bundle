@@ -10,7 +10,7 @@ if (-not (Test-Path -Path "out-dir" -PathType Container)) {
 }
 
 # 清空 out-dir 目录内的文件
-Remove-Item -Path "out-dir\*" -Force
+Remove-Item -Path ".\out-dir\*" -Force -Recurse
 
 # 复制文件到 out-dir
 

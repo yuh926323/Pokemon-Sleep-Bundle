@@ -17,4 +17,8 @@ INSERT INTO event_sleep_point_bonus (id,event_id,add_point) VALUES
 	 (15,69,500),
 	 (16,70,1000),
 	 (17,71,500),
-	 (18,73,1225);
+	 (18,73,1225),
+	 (19,76,512),
+	 (20,77,200);
+INSERT INTO event_sleep_point_bonus (id,event_id,add_point) VALUES
+	 (21,78,512);

@@ -15,4 +15,7 @@ INSERT INTO event_pokemon_sleep_exp_multiplier (id,event_id,multiplier) VALUES
 	 (13,68,200),
 	 (14,69,200),
 	 (15,70,300),
-	 (16,71,200);
+	 (16,71,200),
+	 (17,76,150),
+	 (18,77,150),
+	 (19,78,150);

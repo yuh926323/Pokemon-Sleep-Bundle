@@ -45,6 +45,9 @@ INSERT INTO event_sleeping_face_params (id,event_id,pokemon_face_ids,desc_label)
 INSERT INTO event_sleeping_face_params (id,event_id,pokemon_face_ids,desc_label) VALUES
 	 (38,73,'292,293,294,304,305,306,426,461,462,463,464','md_event_sleeping_face_params_2'),
 	 (39,73,'465,466,467,468,469,470,471','md_event_sleeping_face_params_1'),
+	 (40,76,'1,2,3,16,17,18,34,35,36,40,41,42,465,466,467,469,470,471','md_event_sleeping_face_params_2'),
+	 (41,77,'1,2,3,16,17,18,34,35,36,40,41,42,465,466,467,469,470,471','md_event_sleeping_face_params_2'),
+	 (42,78,'1,2,3,16,17,18,34,35,36,40,41,42,465,466,467,469,470,471','md_event_sleeping_face_params_2'),
 	 (43,69,'436,437,438,439,440,441,442,443,444,445,446,447','md_event_sleeping_face_params_2'),
 	 (44,70,'436,437,438,439,440,441,442,443,444,445,446,447','md_event_sleeping_face_params_3'),
 	 (45,71,'436,437,438,439,440,441,442,443,444,445,446,447','md_event_sleeping_face_params_2');

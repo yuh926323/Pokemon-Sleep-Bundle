@@ -125,4 +125,7 @@ INSERT INTO kpi_event_token_list (id,event_name,token) VALUES
 	 (113,'login_day_7','a9nun1'),
 	 (114,'use_dia_shop_24','yvonq7'),
 	 (115,'use_dia_shop_25','jhvurn'),
-	 (116,'use_dia_shop_26','93qtpz');
+	 (116,'use_dia_shop_26','93qtpz'),
+	 (117,'use_dia_shop_27','a4kz04'),
+	 (118,'use_dia_shop_28','g4v1sd'),
+	 (119,'use_dia_shop_29','rdkeb4');

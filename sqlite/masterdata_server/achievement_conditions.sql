@@ -394,3 +394,14 @@ INSERT INTO achievement_conditions (id,"desc",achievement_id,step,clear_count,re
 	 (358,'md_achievement_conditions_desc_358',36,8,25,2,1,20,0,0,0),
 	 (359,'md_achievement_conditions_desc_359',36,9,30,10,1,2,0,0,0),
 	 (360,'md_achievement_conditions_desc_360',36,10,35,27,1,1,0,0,0);
+INSERT INTO achievement_conditions (id,"desc",achievement_id,step,clear_count,reward_item_type,reward_item_id,reward_item_num,condition1,condition2,condition3) VALUES
+	 (361,'md_achievement_conditions_desc_361',37,1,3,10,1,1,0,0,0),
+	 (362,'md_achievement_conditions_desc_362',37,2,6,9,1,1,0,0,0),
+	 (363,'md_achievement_conditions_desc_363',37,3,9,25,1,1,0,0,0),
+	 (364,'md_achievement_conditions_desc_364',37,4,11,10,1,1,0,0,0),
+	 (365,'md_achievement_conditions_desc_365',37,5,14,9,1,1,0,0,0),
+	 (366,'md_achievement_conditions_desc_366',37,6,16,2,1,10,0,0,0),
+	 (367,'md_achievement_conditions_desc_367',37,7,20,10,1,2,0,0,0),
+	 (368,'md_achievement_conditions_desc_368',37,8,25,2,1,20,0,0,0),
+	 (369,'md_achievement_conditions_desc_369',37,9,30,10,1,2,0,0,0),
+	 (370,'md_achievement_conditions_desc_370',37,10,35,26,1,1,0,0,0);

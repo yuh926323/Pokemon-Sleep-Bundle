@@ -128,4 +128,8 @@ INSERT INTO kpi_event_token_list (id,event_name,token) VALUES
 	 (116,'use_dia_shop_26','93qtpz'),
 	 (117,'use_dia_shop_27','a4kz04'),
 	 (118,'use_dia_shop_28','g4v1sd'),
-	 (119,'use_dia_shop_29','rdkeb4');
+	 (119,'use_dia_shop_29','rdkeb4'),
+	 (120,'use_dia_shop_30','u8h9w9');
+INSERT INTO kpi_event_token_list (id,event_name,token) VALUES
+	 (121,'use_dia_shop_31','7kypff'),
+	 (122,'use_dia_shop_32','jkxipi');

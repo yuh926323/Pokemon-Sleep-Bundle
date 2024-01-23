@@ -507,4 +507,43 @@ INSERT INTO sleeping_faces (id,name,library_id,library_sub_id,display_name,pokem
 INSERT INTO sleeping_faces (id,name,library_id,library_sub_id,display_name,pokemon_id,rarity,research_p,coin,face_type,"size",research_candy_num,on_snorlax,sleep_power_order,new_research_start_frame,ignore_tutorial,no_flip) VALUES
 	 (471,'md_sleeping_faces_name_460-3',460,3,'お腹の上寝の',120,3,2263,3470,3,1,9,0,1077,569,1,0),
 	 (10003,'md_sleeping_faces_name_25-1',25,1,'お腹の上寝の',9002,1,7,20,1,1,4,0,2,523,1,0),
-	 (10004,'md_sleeping_faces_name_225-3',25,2,'お腹の上寝の',9002,2,77,232,5,1,6,0,60,526,1,0);
+	 (10004,'md_sleeping_faces_name_225-3',25,2,'お腹の上寝の',9002,2,77,232,5,1,6,0,60,526,1,0),
+	 (472,'md_sleeping_faces_name_147-1',147,1,'お腹の上寝の',121,1,21,44,1,1,3,0,15,300,1,0),
+	 (473,'md_sleeping_faces_name_147-2',147,2,'お腹の上寝の',121,2,522,1104,2,1,5,0,334,369,1,0),
+	 (474,'md_sleeping_faces_name_147-3',147,3,'お腹の上寝の',121,3,981,2072,3,1,7,0,548,415,1,0),
+	 (475,'md_sleeping_faces_name_onSnorlax',147,4,'お腹の上寝の',121,4,1335,2822,1,1,8,2,672,300,1,0),
+	 (476,'md_sleeping_faces_name_148-1',148,1,'お腹の上寝の',122,1,170,360,1,1,5,0,122,300,1,0),
+	 (477,'md_sleeping_faces_name_148-2',148,2,'お腹の上寝の',122,2,638,1347,2,1,7,0,407,360,1,0),
+	 (478,'md_sleeping_faces_name_148-3',148,3,'お腹の上寝の',122,3,1804,3813,3,1,9,0,1008,300,1,0);
+INSERT INTO sleeping_faces (id,name,library_id,library_sub_id,display_name,pokemon_id,rarity,research_p,coin,face_type,"size",research_candy_num,on_snorlax,sleep_power_order,new_research_start_frame,ignore_tutorial,no_flip) VALUES
+	 (479,'md_sleeping_faces_name_onSnorlax',148,4,'お腹の上寝の',122,4,2512,5308,1,1,10,3,1265,300,1,0),
+	 (480,'md_sleeping_faces_name_149-1',149,1,'お腹の上寝の',123,1,1848,3326,1,1,8,0,1216,461,1,0),
+	 (481,'md_sleeping_faces_name_149-2',149,2,'お腹の上寝の',123,2,3454,6217,2,1,10,0,2029,360,1,0),
+	 (482,'md_sleeping_faces_name_149-3',149,3,'お腹の上寝の',123,3,7955,14319,3,1,12,0,4088,380,1,0),
+	 (483,'md_sleeping_faces_name_onSnorlax',149,4,'お腹の上寝の',123,4,10538,18968,1,1,13,4,4882,461,1,0),
+	 (484,'md_sleeping_faces_name_280-1',280,1,'お腹の上寝の',124,1,17,35,1,1,3,0,8,657,1,0),
+	 (485,'md_sleeping_faces_name_280-2',280,2,'お腹の上寝の',124,2,446,942,2,1,5,0,285,365,1,0),
+	 (486,'md_sleeping_faces_name_280-3',280,3,'お腹の上寝の',124,3,850,1797,3,1,7,0,475,449,1,0),
+	 (487,'md_sleeping_faces_name_onSnorlax',280,4,'お腹の上寝の',124,4,1157,2446,1,1,8,1,583,657,1,0),
+	 (488,'md_sleeping_faces_name_281-1',281,1,'お腹の上寝の',125,1,170,360,1,1,5,0,122,461,1,0);
+INSERT INTO sleeping_faces (id,name,library_id,library_sub_id,display_name,pokemon_id,rarity,research_p,coin,face_type,"size",research_candy_num,on_snorlax,sleep_power_order,new_research_start_frame,ignore_tutorial,no_flip) VALUES
+	 (489,'md_sleeping_faces_name_281-2',281,2,'お腹の上寝の',125,2,638,1347,2,1,7,0,407,458,1,0),
+	 (490,'md_sleeping_faces_name_281-3',281,3,'お腹の上寝の',125,3,1804,3813,3,1,9,0,1008,467,1,0),
+	 (491,'md_sleeping_faces_name_onSnorlax',281,4,'お腹の上寝の',125,4,2512,5308,1,1,10,2,1265,461,1,0),
+	 (492,'md_sleeping_faces_name_282-1',282,1,'お腹の上寝の',126,1,683,1769,1,1,8,0,548,434,1,0),
+	 (493,'md_sleeping_faces_name_282-2',282,2,'お腹の上寝の',126,2,1407,3645,2,1,10,0,1008,398,1,0),
+	 (494,'md_sleeping_faces_name_282-3',282,3,'お腹の上寝の',126,3,3411,8836,3,1,12,0,2138,492,1,0),
+	 (495,'md_sleeping_faces_name_onSnorlax',282,4,'お腹の上寝の',126,4,4535,11748,1,1,13,3,2562,434,1,0),
+	 (496,'md_sleeping_faces_name_475-1',475,1,'お腹の上寝の',127,1,1043,2702,1,1,8,0,837,455,1,0),
+	 (497,'md_sleeping_faces_name_475-2',475,2,'お腹の上寝の',127,2,2042,5288,2,1,10,0,1463,356,1,0),
+	 (498,'md_sleeping_faces_name_475-3',475,3,'お腹の上寝の',127,3,4869,12612,3,1,12,0,3052,493,1,0);
+INSERT INTO sleeping_faces (id,name,library_id,library_sub_id,display_name,pokemon_id,rarity,research_p,coin,face_type,"size",research_candy_num,on_snorlax,sleep_power_order,new_research_start_frame,ignore_tutorial,no_flip) VALUES
+	 (499,'md_sleeping_faces_name_onSnorlax',475,4,'お腹の上寝の',127,4,6502,16841,1,1,13,3,3674,455,1,0),
+	 (500,'md_sleeping_faces_name_759-1',759,1,'お腹の上寝の',128,1,27,34,1,1,3,0,15,427,1,0),
+	 (501,'md_sleeping_faces_name_759-2',759,2,'お腹の上寝の',128,2,622,779,2,1,5,0,310,417,1,0),
+	 (502,'md_sleeping_faces_name_759-3',759,3,'お腹の上寝の',128,3,1183,1479,3,1,7,0,515,390,1,0),
+	 (503,'md_sleeping_faces_name_onSnorlax',759,4,'お腹の上寝の',128,4,1712,2142,1,1,8,2,672,427,1,0),
+	 (504,'md_sleeping_faces_name_760-1',760,1,'お腹の上寝の',129,1,300,324,1,1,5,0,158,506,1,0),
+	 (505,'md_sleeping_faces_name_760-2',760,2,'お腹の上寝の',129,2,1096,1184,2,1,7,0,515,411,1,0),
+	 (506,'md_sleeping_faces_name_760-3',760,3,'お腹の上寝の',129,3,2957,3193,3,1,9,0,1216,393,1,0),
+	 (507,'md_sleeping_faces_name_onSnorlax',760,4,'お腹の上寝の',129,4,3946,4261,1,1,10,4,1463,506,1,0);

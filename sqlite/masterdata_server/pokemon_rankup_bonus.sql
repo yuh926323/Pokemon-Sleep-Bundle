@@ -1,7 +1,7 @@
 INSERT INTO pokemon_rankup_bonus (id,name,"desc",bonus_type,bonus_num,rarity,upgrade_to) VALUES
 	 (1,'md_pokemon_rankup_bonus_name_1','md_pokemon_rankup_bonus_desc_1',12,140,3,0),
 	 (2,'md_pokemon_rankup_bonus_name_2','md_pokemon_rankup_bonus_desc_2',18,50,3,0),
-	 (3,'md_pokemon_rankup_bonus_name_3','md_pokemon_rankup_bonus_desc_3',4,120,3,0),
+	 (3,'md_pokemon_rankup_bonus_name_3','md_pokemon_rankup_bonus_desc_3',4,140,3,0),
 	 (4,'md_pokemon_rankup_bonus_name_4','md_pokemon_rankup_bonus_desc_4',6,60,3,0),
 	 (5,'md_pokemon_rankup_bonus_name_5','md_pokemon_rankup_bonus_desc_5',5,60,3,0),
 	 (6,'md_pokemon_rankup_bonus_name_6','md_pokemon_rankup_bonus_desc_6',17,70,1,7),

@@ -127,4 +127,14 @@ INSERT INTO pokemons (id,name,full_name,"type",sleep_type,sleep_type_old,"size",
 	 (118,'md_pokemons_name_225','md_pokemons_name_225',10,4,1,1,225,118,16,1,1,8,0,1,1,0,0,'フォルム名',225,1,1,466,986,0,0,4980,1990,1050,1990,770,1990,2420,4260),
 	 (119,'md_pokemons_name_459','md_pokemons_name_459',6,0,1,1,459,119,5,1,1,5,0,1,1,0,0,'フォルム名',459,1,1,20,36,0,0,9200,8120,810,8120,8080,8120,1410,6240),
 	 (120,'md_pokemons_name_460','md_pokemons_name_460',6,0,1,1,460,119,12,1,1,7,0,1,1,0,0,'フォルム名',460,1,1,334,512,0,0,9210,10,790,10,7320,10,1400,8320),
-	 (9002,'md_pokemons_name_9002','md_pokemons_name_9002_full',4,1,1,1,9002,1,7,1,1,6,0,301,1,0,0,'フォルム名',25,0,1,7,20,0,0,6792,6522,7232,6522,6632,6522,9712,2032);
+	 (9002,'md_pokemons_name_9002','md_pokemons_name_9002_full',4,1,1,1,9002,1,7,1,1,6,0,301,1,0,0,'フォルム名',25,0,1,7,20,0,0,6792,6522,7232,6522,6632,6522,9712,2032),
+	 (121,'md_pokemons_name_147','md_pokemons_name_147',15,4,1,1,147,121,5,2,1,5,0,1,1,0,0,'フォルム名',147,1,1,21,44,0,0,8470,2270,6040,2270,1530,2270,4180,5640),
+	 (122,'md_pokemons_name_148','md_pokemons_name_148',15,4,1,1,148,121,12,2,1,7,0,1,1,0,0,'フォルム名',148,1,1,170,360,0,0,6200,2220,2520,2220,1490,2220,5690,4340);
+INSERT INTO pokemons (id,name,full_name,"type",sleep_type,sleep_type_old,"size",image_id,species_id,need_friend_point,exp_table_type,tmp_evolution_flag,transfer_candy_num,legendary,event_type_name,pattern_ids,form_id,form_order_id,form_name,pokedex_order_id,pokedex_top_flag,is_invertable,capture_research_exp,capture_coin,is_rare,release_guard_flag,name_sort_id_jp,name_sort_id_en,name_sort_id_fr,name_sort_id_it,name_sort_id_de,name_sort_id_es,name_sort_id_ko,name_sort_id_ch) VALUES
+	 (123,'md_pokemons_name_149','md_pokemons_name_149',15,4,1,1,149,121,25,2,1,12,0,1,1,0,0,'フォルム名',149,1,1,1848,3326,0,0,1400,2230,2530,2230,1500,2230,3510,2870),
+	 (124,'md_pokemons_name_280','md_pokemons_name_280',11,1,1,1,280,124,5,1,1,5,0,1,1,0,0,'フォルム名',280,1,1,17,35,0,0,9530,6940,8930,6940,9000,6940,2680,3570),
+	 (125,'md_pokemons_name_281','md_pokemons_name_281',11,1,1,1,281,124,12,1,1,7,0,1,1,0,0,'フォルム名',281,1,1,170,360,0,0,2120,4440,4650,4440,3950,4440,8550,3330),
+	 (126,'md_pokemons_name_282','md_pokemons_name_282',11,1,1,1,282,124,20,1,1,10,0,1,1,0,0,'フォルム名',282,1,1,683,1769,0,0,3100,3210,3670,3210,3070,3210,20,2950),
+	 (127,'md_pokemons_name_475','md_pokemons_name_475',7,0,1,1,475,124,22,1,1,11,0,1,1,0,0,'フォルム名',475,1,1,1043,2702,0,0,960,3170,3590,3170,2550,3170,6580,2570),
+	 (128,'md_pokemons_name_759','md_pokemons_name_759',7,0,1,1,759,128,5,1,1,5,0,1,1,0,0,'フォルム名',759,1,1,27,34,0,0,5830,8440,6660,8440,9210,8440,9360,6630),
+	 (129,'md_pokemons_name_760','md_pokemons_name_760',7,0,1,1,760,128,12,1,1,7,0,1,1,0,0,'フォルム名',760,1,1,300,324,0,0,1900,660,1440,660,4280,660,7100,4710);

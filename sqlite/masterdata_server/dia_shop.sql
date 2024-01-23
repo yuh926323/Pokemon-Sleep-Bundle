@@ -49,4 +49,9 @@ INSERT INTO dia_shop (id,price,name,item_type,item_id,item_num,order_id,group_id
 	 (44,3000,'md_event_item_packs_name_19',30,32,1,3,19,1,'use_dia_shop_26'),
 	 (45,1200,'md_event_item_packs_name_20',30,33,1,1,20,1,'use_dia_shop_27'),
 	 (46,3000,'md_event_item_packs_name_21',30,34,1,2,20,1,'use_dia_shop_28'),
-	 (47,5000,'md_event_item_packs_name_22',30,35,1,3,20,1,'use_dia_shop_29');
+	 (47,5000,'md_event_item_packs_name_22',30,35,1,3,20,1,'use_dia_shop_29'),
+	 (48,1500,'md_event_item_packs_name_3',30,36,1,1,21,1,'use_dia_shop_15'),
+	 (49,250,'md_event_item_packs_name_23',30,37,1,1,22,1,'use_dia_shop_30'),
+	 (50,1200,'md_event_item_packs_name_24',30,38,1,2,22,1,'use_dia_shop_31');
+INSERT INTO dia_shop (id,price,name,item_type,item_id,item_num,order_id,group_id,limit_count,tracking_name) VALUES
+	 (51,3000,'md_event_item_packs_name_25',30,39,1,3,22,1,'use_dia_shop_32');

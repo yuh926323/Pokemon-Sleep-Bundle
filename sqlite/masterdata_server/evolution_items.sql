@@ -10,4 +10,5 @@ INSERT INTO evolution_items (id,name,"desc",usage_type) VALUES
 	 (9,'md_evolution_items_name_9','md_evolution_items_desc_9',0),
 	 (10,'md_evolution_items_name_10','md_evolution_items_desc_10',0);
 INSERT INTO evolution_items (id,name,"desc",usage_type) VALUES
-	 (11,'md_evolution_items_name_11','md_evolution_items_desc_11',0);
+	 (11,'md_evolution_items_name_11','md_evolution_items_desc_11',0),
+	 (12,'md_evolution_items_name_12','md_evolution_items_desc_12',0);

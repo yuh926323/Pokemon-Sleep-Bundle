@@ -66,6 +66,23 @@ INSERT INTO main_mission_story (id,mission_id,story_index,message,illust_id,ms_t
 	 (60,8,4,'md_main_mission_story_8_4',1,0);
 INSERT INTO main_mission_story (id,mission_id,story_index,message,illust_id,ms_tag_flag) VALUES
 	 (61,8,5,'md_main_mission_story_8_5',1,0),
-	 (62,8,6,'md_main_mission_story_waiting_update',1,0),
+	 (62,8,6,'md_main_mission_story_8_6',1,2),
 	 (63,8,7,'md_main_mission_story_8_7',1,0),
-	 (64,8,8,'md_main_mission_story_8_8',0,0);
+	 (64,8,8,'md_main_mission_story_8_8',0,0),
+	 (65,9,1,'md_main_mission_story_13_1',0,1),
+	 (66,9,2,'md_main_mission_story_13_2',0,0),
+	 (67,9,3,'md_main_mission_story_13_3',1,0),
+	 (68,9,4,'md_main_mission_story_13_4',1,0),
+	 (69,9,5,'md_main_mission_story_13_5',1,0),
+	 (70,9,6,'md_main_mission_story_13_6',1,2);
+INSERT INTO main_mission_story (id,mission_id,story_index,message,illust_id,ms_tag_flag) VALUES
+	 (71,9,7,'md_main_mission_story_13_7',1,0),
+	 (72,9,8,'md_main_mission_story_13_8',0,0),
+	 (73,10,1,'md_main_mission_story_14_1',0,1),
+	 (74,10,2,'md_main_mission_story_14_2',0,0),
+	 (75,10,3,'md_main_mission_story_14_3',1,0),
+	 (76,10,4,'md_main_mission_story_14_4',1,0),
+	 (77,10,5,'md_main_mission_story_14_5',1,0),
+	 (78,10,6,'md_main_mission_story_waiting_update',1,0),
+	 (79,10,7,'md_main_mission_story_6_7',1,0),
+	 (80,10,8,'md_main_mission_story_14_8',0,0);

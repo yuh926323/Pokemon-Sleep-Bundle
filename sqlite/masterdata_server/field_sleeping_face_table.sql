@@ -507,4 +507,43 @@ INSERT INTO field_sleeping_face_table (id,sleeping_face_id) VALUES
 INSERT INTO field_sleeping_face_table (id,sleeping_face_id) VALUES
 	 (471,471),
 	 (10003,10003),
-	 (10004,10004);
+	 (10004,10004),
+	 (472,472),
+	 (473,473),
+	 (474,474),
+	 (475,475),
+	 (476,476),
+	 (477,477),
+	 (478,478);
+INSERT INTO field_sleeping_face_table (id,sleeping_face_id) VALUES
+	 (479,479),
+	 (480,480),
+	 (481,481),
+	 (482,482),
+	 (483,483),
+	 (484,484),
+	 (485,485),
+	 (486,486),
+	 (487,487),
+	 (488,488);
+INSERT INTO field_sleeping_face_table (id,sleeping_face_id) VALUES
+	 (489,489),
+	 (490,490),
+	 (491,491),
+	 (492,492),
+	 (493,493),
+	 (494,494),
+	 (495,495),
+	 (496,496),
+	 (497,497),
+	 (498,498);
+INSERT INTO field_sleeping_face_table (id,sleeping_face_id) VALUES
+	 (499,499),
+	 (500,500),
+	 (501,501),
+	 (502,502),
+	 (503,503),
+	 (504,504),
+	 (505,505),
+	 (506,506),
+	 (507,507);

@@ -127,4 +127,14 @@ INSERT INTO pokedex_data (id,pokemon_id,weight,height,pokedex_number,category_na
 	 (118,118,9,160,225,'md_pokedex_data_category_name_225','md_pokedex_data_desc_225',1,1,0,1,0),
 	 (119,119,10,505,459,'md_pokedex_data_category_name_459','md_pokedex_data_desc_459',1,1,0,1,0),
 	 (120,120,22,1355,460,'md_pokedex_data_category_name_460','md_pokedex_data_desc_460',1,1,0,1,0),
-	 (9002,9002,4,60,25,'md_pokedex_data_category_name_25','md_pokedex_data_desc_25',1,1,0,1,1);
+	 (9002,9002,4,60,25,'md_pokedex_data_category_name_25','md_pokedex_data_desc_25',1,1,0,1,1),
+	 (121,121,4,60,147,'md_pokedex_data_category_name_147','md_pokedex_data_desc_147',1,1,0,1,0),
+	 (122,122,4,60,148,'md_pokedex_data_category_name_148','md_pokedex_data_desc_148',1,1,0,1,0);
+INSERT INTO pokedex_data (id,pokemon_id,weight,height,pokedex_number,category_name,"desc",has_male,has_female,is_gender_unknown,default_gender,has_event) VALUES
+	 (123,123,4,60,149,'md_pokedex_data_category_name_149','md_pokedex_data_desc_149',1,1,0,1,0),
+	 (124,124,4,60,280,'md_pokedex_data_category_name_280','md_pokedex_data_desc_280',1,1,0,1,0),
+	 (125,125,4,60,281,'md_pokedex_data_category_name_281','md_pokedex_data_desc_281',1,1,0,1,0),
+	 (126,126,4,60,282,'md_pokedex_data_category_name_282','md_pokedex_data_desc_282',1,1,0,1,0),
+	 (127,127,4,60,475,'md_pokedex_data_category_name_475','md_pokedex_data_desc_475',1,0,0,1,0),
+	 (128,128,4,60,759,'md_pokedex_data_category_name_759','md_pokedex_data_desc_759',1,1,0,1,0),
+	 (129,129,4,60,760,'md_pokedex_data_category_name_760','md_pokedex_data_desc_760',1,1,0,1,0);

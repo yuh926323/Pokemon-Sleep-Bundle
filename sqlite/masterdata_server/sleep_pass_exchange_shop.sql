@@ -28,4 +28,5 @@ INSERT INTO sleep_pass_exchange_shop (id,need_point,name,item_id,item_num,item_t
 	 (25,300,'md_sleep_pass_exchange_shop_name_8',2,1,17,3,114,'sleep_point_8'),
 	 (26,500,'md_sleep_pass_exchange_shop_name_12',2,1,10,3,113,'premium_sleep_point_3'),
 	 (27,100,'item_name_7',1,1,20,1,19,'premium_sleep_point_3'),
-	 (28,1400,'md_evolution_items_name_9',9,1,28,5,29,'sleep_point_18');
+	 (28,1400,'md_evolution_items_name_9',9,1,28,5,29,'sleep_point_18'),
+	 (29,1400,'md_evolution_items_name_12',12,1,28,5,30,'sleep_point_20');

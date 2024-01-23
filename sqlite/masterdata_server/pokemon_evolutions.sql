@@ -72,4 +72,11 @@ INSERT INTO pokemon_evolutions (id,pokemon_id,evolves_into,evolution_type,need_c
 	 (67,112,113,2,80,0,7,1,0,0,0,0,0,0),
 	 (68,114,115,1,40,28,0,0,0,0,0,0,0,0),
 	 (69,116,117,4,80,0,9,1,1,1,0,0,0,0,0,0),
-	 (70,119,120,1,40,30,0,0,0,0,0,0,0,0);
+	 (70,119,120,1,40,30,0,0,0,0,0,0,0,0),
+	 (71,121,122,1,40,23,0,0,0,0,0,0,0,0),
+	 (72,122,123,1,100,41,0,0,0,0,0,0,0,0);
+INSERT INTO pokemon_evolutions (id,pokemon_id,evolves_into,evolution_type,need_candy,"rank",evolution_item_id,evolution_item_num,total_sleep_min,period_of_time,gender,nature,field_id,sub_skill_id) VALUES
+	 (73,124,125,1,40,15,0,0,0,0,0,0,0,0),
+	 (74,125,126,1,80,23,0,0,0,0,0,0,0,0),
+	 (75,125,127,10,80,0,12,1,0,0,1,0,0,0),
+	 (76,128,129,1,40,20,0,0,0,0,0,0,0,0);

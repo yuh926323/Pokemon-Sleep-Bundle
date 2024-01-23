@@ -50,4 +50,11 @@ INSERT INTO event_sleeping_face_params (id,event_id,pokemon_face_ids,desc_label)
 	 (42,78,'1,2,3,16,17,18,34,35,36,40,41,42,465,466,467,469,470,471','md_event_sleeping_face_params_2'),
 	 (43,69,'436,437,438,439,440,441,442,443,444,445,446,447','md_event_sleeping_face_params_2'),
 	 (44,70,'436,437,438,439,440,441,442,443,444,445,446,447','md_event_sleeping_face_params_3'),
-	 (45,71,'436,437,438,439,440,441,442,443,444,445,446,447','md_event_sleeping_face_params_2');
+	 (45,71,'436,437,438,439,440,441,442,443,444,445,446,447','md_event_sleeping_face_params_2'),
+	 (90004,90004,'472,473,474,475,484,485,486,487,500,501,502,503','dummy'),
+	 (46,91,'436,437,438,439,440,441,442,443,444,445,446,447','md_event_sleeping_face_params_2');
+INSERT INTO event_sleeping_face_params (id,event_id,pokemon_face_ids,desc_label) VALUES
+	 (47,92,'436,437,438,439,440,441,442,443,444,445,446,447','md_event_sleeping_face_params_3'),
+	 (48,93,'436,437,438,439,440,441,442,443,444,445,446,447','md_event_sleeping_face_params_2'),
+	 (90005,90005,'472,473,474,475,484,485,486,487,500,501,502,503','dummy'),
+	 (49,94,'472,473,474,475,484,485,486,487,500,501,502,503','md_event_sleeping_face_params_1');

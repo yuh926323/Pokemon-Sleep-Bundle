@@ -53,3 +53,8 @@ INSERT INTO cooking_bonus (id,cooking_count,energy_bonus_num) VALUES
 	 (48,1050391,1370),
 	 (49,1121582,1420),
 	 (50,1196687,1480);
+INSERT INTO cooking_bonus (id,cooking_count,energy_bonus_num) VALUES
+	 (51,1319485,1530),
+	 (52,1471363,1590),
+	 (53,1672589,1650),
+	 (54,1930878,1710);

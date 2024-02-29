@@ -59,11 +59,11 @@ INSERT INTO weekly_missions (id,mission_type,need_num,reward_type,reward_id,rewa
 	 (53,1,7,1,0,1310),
 	 (54,1,7,1,0,1370),
 	 (55,1,7,1,0,1430),
-	 (56,1,8,1,0,1500),
-	 (57,1,8,1,0,1540),
-	 (58,1,8,1,0,1590),
-	 (59,1,8,1,0,1670),
-	 (60,1,8,1,0,1740);
+	 (56,1,7,1,0,1500),
+	 (57,1,7,1,0,1540),
+	 (58,1,7,1,0,1590),
+	 (59,1,7,1,0,1670),
+	 (60,1,7,1,0,1740);
 INSERT INTO weekly_missions (id,mission_type,need_num,reward_type,reward_id,reward_num) VALUES
 	 (201,1,8,25,1,1),
 	 (202,1,8,25,1,1),
@@ -129,7 +129,7 @@ INSERT INTO weekly_missions (id,mission_type,need_num,reward_type,reward_id,rewa
 	 (257,1,14,25,1,1),
 	 (258,1,14,25,1,1),
 	 (259,1,14,25,1,1),
-	 (260,1,15,25,1,1);
+	 (260,1,14,25,1,1);
 INSERT INTO weekly_missions (id,mission_type,need_num,reward_type,reward_id,reward_num) VALUES
 	 (401,1,11,29,1,1),
 	 (402,1,11,29,1,1),
@@ -187,15 +187,15 @@ INSERT INTO weekly_missions (id,mission_type,need_num,reward_type,reward_id,rewa
 	 (450,1,18,29,3,1);
 INSERT INTO weekly_missions (id,mission_type,need_num,reward_type,reward_id,reward_num) VALUES
 	 (451,1,18,29,3,1),
-	 (452,1,19,29,3,1),
-	 (453,1,19,29,3,1),
-	 (454,1,19,29,3,1),
-	 (455,1,19,29,3,1),
-	 (456,1,19,29,3,1),
-	 (457,1,19,29,3,1),
-	 (458,1,19,29,3,1),
-	 (459,1,20,29,3,1),
-	 (460,1,20,29,3,1);
+	 (452,1,18,29,3,1),
+	 (453,1,18,29,3,1),
+	 (454,1,18,29,3,1),
+	 (455,1,18,29,3,1),
+	 (456,1,18,29,3,1),
+	 (457,1,18,29,3,1),
+	 (458,1,18,29,3,1),
+	 (459,1,18,29,3,1),
+	 (460,1,18,29,3,1);
 INSERT INTO weekly_missions (id,mission_type,need_num,reward_type,reward_id,reward_num) VALUES
 	 (1001,2,14,1,0,70),
 	 (1002,2,14,1,0,90),

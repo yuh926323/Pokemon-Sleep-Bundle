@@ -13,4 +13,8 @@ INSERT INTO event_detail_info (id,name,short_name,unique_name,data_type) VALUES
 	 (11,'md_event_detail_name_9','md_event_detail_short_name_9_2','LapisLazuliLake',3),
 	 (12,'md_event_detail_name_5','md_event_detail_name_5','Halloween',3),
 	 (13,'md_event_detail_name_6','md_event_detail_short_name_6','EeveeWeek',3),
-	 (14,'md_event_detail_name_7','md_event_detail_name_7','Holiday',3);
+	 (14,'md_event_detail_name_7','md_event_detail_name_7','Holiday',3),
+	 (15,'md_event_detail_name_10','md_event_detail_short_name_10','Valentine',1),
+	 (16,'md_event_detail_name_10','md_event_detail_short_name_10','Valentine',3),
+	 (17,'md_event_detail_name_11','md_event_detail_name_11','ElectricWeek',1),
+	 (18,'md_event_detail_name_11','md_event_detail_short_name_11','ElectricWeek',3);

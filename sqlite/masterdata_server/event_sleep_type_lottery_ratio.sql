@@ -12,4 +12,6 @@ INSERT INTO event_sleep_type_lottery_ratio (id,event_id,lottery_ratio) VALUES
 INSERT INTO event_sleep_type_lottery_ratio (id,event_id,lottery_ratio) VALUES
 	 (14,76,0),
 	 (15,77,40),
-	 (16,78,0);
+	 (16,78,0),
+	 (17,99,40),
+	 (18,105,40);

@@ -132,4 +132,17 @@ INSERT INTO kpi_event_token_list (id,event_name,token) VALUES
 	 (120,'use_dia_shop_30','u8h9w9');
 INSERT INTO kpi_event_token_list (id,event_name,token) VALUES
 	 (121,'use_dia_shop_31','7kypff'),
-	 (122,'use_dia_shop_32','jkxipi');
+	 (122,'use_dia_shop_32','jkxipi'),
+	 (123,'use_dia_shop_33','5va42s'),
+	 (124,'use_dia_shop_34','cfrr8k'),
+	 (125,'use_dia_shop_35','vyh81s'),
+	 (126,'use_dia_shop_36','uamnpd'),
+	 (127,'use_dia_shop_37','b6vsrb'),
+	 (128,'use_dia_shop_38','qpp41t'),
+	 (129,'use_dia_shop_39','k9q5hy'),
+	 (130,'use_dia_shop_40','jepc1c');
+INSERT INTO kpi_event_token_list (id,event_name,token) VALUES
+	 (131,'use_dia_shop_41','nryfh6'),
+	 (132,'tutorial_cooking','t3ea7h'),
+	 (133,'tutorial_masterball','dkwunc'),
+	 (134,'ipa_pokemonsleep.bundle001','knwjt7');

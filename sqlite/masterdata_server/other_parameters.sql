@@ -61,4 +61,10 @@ INSERT INTO other_parameters (id,"key",value) VALUES
 	 (70,'tutorial_bonus_normal_baitball_num',10),
 	 (74,'time_change_validate_sec',1800),
 	 (75,'timezone_change_validate_duration_sec',3600),
-	 (76,'timezone_change_validate_count',2);
+	 (76,'timezone_change_validate_count',2),
+	 (77,'boost_7_day_max_boost_sec',5184000),
+	 (78,'cook_success_rate',100);
+INSERT INTO other_parameters (id,"key",value) VALUES
+	 (79,'week_end_cook_success_rate',300),
+	 (80,'main_skill_cook_success_per_up_max',700),
+	 (81,'pickup_time_shorten_max_num',350);

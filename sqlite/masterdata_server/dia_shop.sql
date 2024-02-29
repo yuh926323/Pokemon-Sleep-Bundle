@@ -54,4 +54,16 @@ INSERT INTO dia_shop (id,price,name,item_type,item_id,item_num,order_id,group_id
 	 (49,250,'md_event_item_packs_name_23',30,37,1,1,22,1,'use_dia_shop_30'),
 	 (50,1200,'md_event_item_packs_name_24',30,38,1,2,22,1,'use_dia_shop_31');
 INSERT INTO dia_shop (id,price,name,item_type,item_id,item_num,order_id,group_id,limit_count,tracking_name) VALUES
-	 (51,3000,'md_event_item_packs_name_25',30,39,1,3,22,1,'use_dia_shop_32');
+	 (51,3000,'md_event_item_packs_name_25',30,39,1,3,22,1,'use_dia_shop_32'),
+	 (52,250,'md_event_item_packs_name_26',30,40,1,1,23,3,'use_dia_shop_33'),
+	 (53,1200,'md_event_item_packs_name_27',30,41,1,2,23,1,'use_dia_shop_34'),
+	 (54,3000,'md_event_item_packs_name_28',30,42,1,3,23,1,'use_dia_shop_35'),
+	 (55,1500,'md_event_item_packs_name_3',30,43,1,1,24,1,'use_dia_shop_15'),
+	 (56,250,'md_event_item_packs_name_29',30,44,1,1,25,3,'use_dia_shop_36'),
+	 (57,1200,'md_event_item_packs_name_30',30,45,1,2,25,1,'use_dia_shop_37'),
+	 (58,3000,'md_event_item_packs_name_31',30,46,1,3,25,1,'use_dia_shop_38'),
+	 (20001,0,'md_event_purchase_item_packs_name_1',31,993,1,1,20001,1,'ipa_pokemonsleep.bundle001'),
+	 (59,250,'md_event_item_packs_name_32',30,47,1,1,26,3,'use_dia_shop_39');
+INSERT INTO dia_shop (id,price,name,item_type,item_id,item_num,order_id,group_id,limit_count,tracking_name) VALUES
+	 (60,600,'md_event_item_packs_name_33',30,48,1,2,26,1,'use_dia_shop_40'),
+	 (61,1500,'md_event_item_packs_name_34',30,49,1,3,26,1,'use_dia_shop_41');

@@ -18,4 +18,8 @@ INSERT INTO event_sleep_power_multiplier (id,event_id,multiplier) VALUES
 	 (16,71,150),
 	 (17,91,150),
 	 (18,92,200),
-	 (19,93,150);
+	 (19,93,150),
+	 (20,102,150);
+INSERT INTO event_sleep_power_multiplier (id,event_id,multiplier) VALUES
+	 (21,103,200),
+	 (22,104,150);

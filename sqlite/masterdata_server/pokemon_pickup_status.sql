@@ -73,10 +73,10 @@ INSERT INTO pokemon_pickup_status (id,pokemon_id,need_sec,normal_berry_id,normal
 	 (66,66,4000,17,1,11,11,3),
 	 (67,67,2400,10,2,7,21,1),
 	 (68,68,2200,14,1,5,18,2),
-	 (69,69,2800,1,1,10,16,2),
-	 (70,70,2400,12,1,1,19,2);
+	 (69,69,2800,1,1,10,18,2),
+	 (70,70,2400,12,1,1,21,2);
 INSERT INTO pokemon_pickup_status (id,pokemon_id,need_sec,normal_berry_id,normal_berry_num,main_skill_id,max_own_item_count,formation_tag) VALUES
-	 (71,71,3500,1,1,5,13,2),
+	 (71,71,3500,1,1,5,17,2),
 	 (72,72,3100,3,1,10,13,3),
 	 (73,73,2200,4,1,9,17,3),
 	 (74,74,2700,2,1,11,14,3),
@@ -89,12 +89,12 @@ INSERT INTO pokemon_pickup_status (id,pokemon_id,need_sec,normal_berry_id,normal
 INSERT INTO pokemon_pickup_status (id,pokemon_id,need_sec,normal_berry_id,normal_berry_num,main_skill_id,max_own_item_count,formation_tag) VALUES
 	 (84,84,3200,16,1,7,14,3),
 	 (85,85,3400,3,1,4,11,3),
-	 (86,86,2500,12,1,10,15,3),
+	 (86,86,2500,12,1,10,18,3),
 	 (87,87,4800,13,1,7,9,2),
 	 (88,88,3600,13,1,7,13,2),
 	 (89,89,2700,16,1,7,19,2),
 	 (90,90,3000,5,1,4,13,3),
-	 (91,91,3100,16,1,1,14,2),
+	 (91,91,3100,16,1,1,18,2),
 	 (92,92,2600,18,1,8,15,3),
 	 (93,93,2600,18,1,12,16,3);
 INSERT INTO pokemon_pickup_status (id,pokemon_id,need_sec,normal_berry_id,normal_berry_num,main_skill_id,max_own_item_count,formation_tag) VALUES
@@ -112,7 +112,7 @@ INSERT INTO pokemon_pickup_status (id,pokemon_id,need_sec,normal_berry_id,normal
 	 (104,104,3000,6,2,10,18,1),
 	 (105,105,4900,16,2,1,10,1),
 	 (106,106,3300,16,2,1,16,1),
-	 (107,107,3600,16,1,6,10,3),
+	 (107,107,3600,16,1,6,16,3),
 	 (109,109,4300,11,1,1,10,2),
 	 (110,110,2800,11,1,1,17,2),
 	 (111,111,5600,18,2,12,10,1),
@@ -137,4 +137,5 @@ INSERT INTO pokemon_pickup_status (id,pokemon_id,need_sec,normal_berry_id,normal
 	 (126,126,2400,11,1,8,18,3),
 	 (127,127,2400,7,1,9,19,3),
 	 (128,128,4100,7,1,5,13,2),
-	 (129,129,2800,7,1,5,20,2);
+	 (129,129,2800,7,1,5,20,2),
+	 (130,130,2500,4,1,13,19,3);

@@ -53,3 +53,9 @@ INSERT INTO coin_per_candy_table (id,"level","rank",need_coin_per_candy) VALUES
 	 (48,48,48,279),
 	 (49,49,49,295),
 	 (50,50,50,309);
+INSERT INTO coin_per_candy_table (id,"level","rank",need_coin_per_candy) VALUES
+	 (51,51,51,323),
+	 (52,52,52,338),
+	 (53,53,53,356),
+	 (54,54,54,372),
+	 (55,55,55,391);

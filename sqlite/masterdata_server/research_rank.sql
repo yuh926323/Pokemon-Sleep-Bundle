@@ -52,4 +52,10 @@ INSERT INTO research_rank (id,"rank","level",need_user_exp,reward_item_type1,rew
 	 (47,47,47,200531,9,1,1,25,1,1,5,3,1,50,1519),
 	 (48,48,48,214831,9,1,1,25,1,1,5,5,1,50,1593),
 	 (49,49,49,230130,9,1,1,25,1,1,5,2,1,50,1671),
-	 (50,50,50,246490,9,3,1,25,2,1,23,1,1,50,1736);
+	 (50,50,50,246490,9,3,1,25,2,1,23,1,1,55,1736);
+INSERT INTO research_rank (id,"rank","level",need_user_exp,reward_item_type1,reward_item_id1,reward_item_num1,reward_item_type2,reward_item_id2,reward_item_num2,reward_item_type3,reward_item_id3,reward_item_num3,pokemon_rank_cap,coin_bag_num_base) VALUES
+	 (51,51,51,270403,9,1,1,25,1,2,22,1,1,55,1778),
+	 (52,52,52,297400,9,1,1,25,1,2,5,3,1,55,1819),
+	 (53,53,53,327822,9,1,1,25,1,2,5,5,1,55,1890),
+	 (54,54,54,362434,9,1,1,25,1,2,5,2,1,55,1963),
+	 (55,55,55,400028,9,3,1,25,2,1,23,1,1,55,2054);

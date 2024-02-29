@@ -53,3 +53,9 @@ INSERT INTO pokemon_food_sp_correction (id,"rank",correction_per) VALUES
 	 (48,48,1580),
 	 (49,49,1602),
 	 (50,50,1625);
+INSERT INTO pokemon_food_sp_correction (id,"rank",correction_per) VALUES
+	 (51,51,1648),
+	 (52,52,1671),
+	 (53,53,1696),
+	 (54,54,1720),
+	 (55,55,1745);

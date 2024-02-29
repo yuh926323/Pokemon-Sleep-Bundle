@@ -32,4 +32,5 @@ INSERT INTO item_type (id,name) VALUES
 	 (28,'進化の道具'),
 	 (29,'種族のおこう');
 INSERT INTO item_type (id,name) VALUES
-	 (30,'期間限定アイテム');
+	 (30,'期間限定アイテム'),
+	 (31,'課金バンドル');

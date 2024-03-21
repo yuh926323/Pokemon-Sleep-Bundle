@@ -67,4 +67,5 @@ INSERT INTO other_parameters (id,"key",value) VALUES
 INSERT INTO other_parameters (id,"key",value) VALUES
 	 (79,'week_end_cook_success_rate',300),
 	 (80,'main_skill_cook_success_per_up_max',700),
-	 (81,'pickup_time_shorten_max_num',350);
+	 (81,'pickup_time_shorten_max_num',350),
+	 (82,'last_one_pseudo_lottery_adopt_rate',800);

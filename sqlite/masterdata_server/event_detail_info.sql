@@ -17,4 +17,9 @@ INSERT INTO event_detail_info (id,name,short_name,unique_name,data_type) VALUES
 	 (15,'md_event_detail_name_10','md_event_detail_short_name_10','Valentine',1),
 	 (16,'md_event_detail_name_10','md_event_detail_short_name_10','Valentine',3),
 	 (17,'md_event_detail_name_11','md_event_detail_name_11','ElectricWeek',1),
-	 (18,'md_event_detail_name_11','md_event_detail_short_name_11','ElectricWeek',3);
+	 (18,'md_event_detail_name_11','md_event_detail_short_name_11','ElectricWeek',3),
+	 (19,'md_event_detail_name_12','md_event_detail_name_12','Raikou',1),
+	 (20,'md_event_detail_name_12','md_event_detail_short_name_12_1','Raikou',3);
+INSERT INTO event_detail_info (id,name,short_name,unique_name,data_type) VALUES
+	 (21,'md_event_detail_name_12','md_event_detail_short_name_12_2','Raikou',3),
+	 (22,'md_event_detail_name_12','md_event_detail_name_12','Raikou',4);

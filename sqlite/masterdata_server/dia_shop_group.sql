@@ -27,4 +27,7 @@ INSERT INTO dia_shop_group (id,order_id,section_header_type,ms_label,event_id) V
 	 (24,0,1,'ShopScene_Content_Title_2',10009),
 	 (25,0,1,'ShopScene_Content_Title_2',10010),
 	 (20001,100,1,'ShopScene_Content_Title_2',20001),
-	 (26,0,1,'ShopScene_Content_Title_2',10011);
+	 (26,0,1,'ShopScene_Content_Title_2',10011),
+	 (27,0,1,'ShopScene_Content_Title_2',10012),
+	 (28,0,1,'ShopScene_Content_Title_2',10013),
+	 (29,0,1,'ShopScene_Content_Title_2',10014);

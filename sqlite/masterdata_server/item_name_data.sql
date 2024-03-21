@@ -37,4 +37,6 @@ INSERT INTO item_name_data (id,item_type,item_id,name,"desc",desc_short) VALUES
 	 (33,27,1,'item_name_33','item_desc_33','item_desc_short_33'),
 	 (34,5,5,'item_name_34','item_desc_34','item_desc_short_34'),
 	 (9999,20,0,'item_name_7','item_desc_7','item_desc_short_7'),
-	 (35,28,12,'item_name_35','item_desc_35','item_desc_short_35');
+	 (35,28,12,'item_name_35','item_desc_35','item_desc_short_35'),
+	 (36,32,1,'item_name_36','item_desc_36','item_desc_short_36'),
+	 (37,9,4,'item_name_37','item_desc_37','item_desc_short_37');

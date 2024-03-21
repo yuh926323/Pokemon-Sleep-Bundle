@@ -12,4 +12,5 @@ INSERT INTO pokemon_main_skills (id,name,effect_type,"desc",level_1,level_2,leve
 INSERT INTO pokemon_main_skills (id,name,effect_type,"desc",level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_1_formation_power,level_2_formation_power,level_3_formation_power,level_4_formation_power,level_5_formation_power,level_6_formation_power,level_7_formation_power,random_range_lower,random_range_upper,upper_level) VALUES
 	 (11,'md_pokemon_main_skills_name_11',10,'md_pokemon_main_skills_desc_11',7,10,12,17,22,27,0,880,1251,1726,2383,3290,4546,0,0,0,6),
 	 (12,'md_pokemon_main_skills_name_13',12,'md_pokemon_main_skills_desc_13',1,2,3,4,5,6,0,880,1251,1726,2383,3290,4546,0,0,0,6),
-	 (13,'md_pokemon_main_skills_name_14',13,'md_pokemon_main_skills_desc_14',40,50,60,70,80,100,0,880,1251,1726,2383,3290,4546,0,0,0,6);
+	 (13,'md_pokemon_main_skills_name_14',13,'md_pokemon_main_skills_desc_14',40,50,60,70,80,100,0,880,1251,1726,2383,3290,4546,0,0,0,6),
+	 (14,'md_pokemon_main_skills_name_15',11,'md_pokemon_main_skills_desc_15',2,3,3,4,4,5,0,2800,3902,5273,6975,9317,12438,0,0,0,6);

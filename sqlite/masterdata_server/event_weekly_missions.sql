@@ -55,4 +55,17 @@ INSERT INTO event_weekly_missions (id,event_id,mission_type,need_num,reward_type
 	 (50,106,12,7,10,1,5);
 INSERT INTO event_weekly_missions (id,event_id,mission_type,need_num,reward_type,reward_id,reward_num) VALUES
 	 (51,106,7,3,1,0,5000),
-	 (52,106,2,12,25,1,5);
+	 (52,106,2,12,25,1,5),
+	 (25,110,1,2,32,1,15),
+	 (26,110,1,11,32,1,25),
+	 (27,110,1,14,32,1,40),
+	 (28,110,9,15,32,1,40),
+	 (29,110,12,7,32,1,40),
+	 (30,110,7,3,32,1,40),
+	 (31,112,1,15,32,1,15),
+	 (32,112,1,17,32,1,25);
+INSERT INTO event_weekly_missions (id,event_id,mission_type,need_num,reward_type,reward_id,reward_num) VALUES
+	 (33,112,1,20,32,1,40),
+	 (34,112,10,100,32,1,40),
+	 (35,112,7,3,32,1,40),
+	 (36,112,2,12,32,1,40);

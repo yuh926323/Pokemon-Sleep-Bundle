@@ -55,4 +55,5 @@ INSERT INTO species_candies (id,name,narrow_name,target_species_id,color_id,imag
 	 (124,'md_species_candies_name_280','md_species_candies_narrow_name_280',124,1,280);
 INSERT INTO species_candies (id,name,narrow_name,target_species_id,color_id,image_id) VALUES
 	 (128,'md_species_candies_name_759','md_species_candies_narrow_name_759',128,1,759),
-	 (130,'md_species_candies_name_702','md_species_candies_narrow_name_702',130,1,702);
+	 (130,'md_species_candies_name_702','md_species_candies_narrow_name_702',130,1,702),
+	 (131,'md_species_candies_name_243','md_species_candies_narrow_name_243',131,1,243);

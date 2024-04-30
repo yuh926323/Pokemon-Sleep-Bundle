@@ -554,4 +554,8 @@ INSERT INTO field_sleeping_face_table (id,sleeping_face_id) VALUES
 	 (511,511),
 	 (512,512),
 	 (513,513),
-	 (514,514);
+	 (514,514),
+	 (515,515),
+	 (516,516),
+	 (517,517),
+	 (518,518);

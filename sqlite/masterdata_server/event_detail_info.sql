@@ -22,4 +22,6 @@ INSERT INTO event_detail_info (id,name,short_name,unique_name,data_type) VALUES
 	 (20,'md_event_detail_name_12','md_event_detail_short_name_12_1','Raikou',3);
 INSERT INTO event_detail_info (id,name,short_name,unique_name,data_type) VALUES
 	 (21,'md_event_detail_name_12','md_event_detail_short_name_12_2','Raikou',3),
-	 (22,'md_event_detail_name_12','md_event_detail_name_12','Raikou',4);
+	 (22,'md_event_detail_name_12','md_event_detail_name_12','Raikou',4),
+	 (23,'md_event_detail_name_13','md_event_detail_name_13','FlowerFestival',1),
+	 (24,'md_event_detail_name_13','md_event_detail_short_name_13','FlowerFestival',3);

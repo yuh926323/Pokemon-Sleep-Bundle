@@ -6,7 +6,7 @@ INSERT INTO item_name_data (id,item_type,item_id,name,"desc",desc_short) VALUES
 	 (5,22,1,'item_name_5','item_desc_5','item_desc_short_5'),
 	 (6,23,1,'item_name_6','item_desc_6','item_desc_short_6'),
 	 (7,20,1,'item_name_7','item_desc_7','item_desc_short_7'),
-	 (8,21,1,'item_name_8','item_desc_8','item_desc_short_8'),
+	 (8,21,1,'item_name_8','item_desc_8_v2','item_desc_short_8'),
 	 (9,9,1,'item_name_9','item_desc_9','item_desc_short_9'),
 	 (10,9,3,'item_name_10','item_desc_10','item_desc_short_10');
 INSERT INTO item_name_data (id,item_type,item_id,name,"desc",desc_short) VALUES

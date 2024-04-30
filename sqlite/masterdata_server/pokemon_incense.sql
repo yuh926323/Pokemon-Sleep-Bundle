@@ -139,4 +139,5 @@ INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc
 	 (128,'md_pokemon_incense_name_759',128,'5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (129,'md_pokemon_incense_name_760',129,'5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (130,'md_pokemon_incense_name_702',130,'1,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,1710169200,1),
-	 (131,'md_pokemon_incense_name_243',131,'1','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',1,1711378800,1);
+	 (131,'md_pokemon_incense_name_243',131,'1','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',1,1711378800,1),
+	 (132,'md_pokemon_incense_name_764',132,'1,2,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,1713798000,1);

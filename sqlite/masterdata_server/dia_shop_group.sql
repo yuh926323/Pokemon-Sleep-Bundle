@@ -31,3 +31,6 @@ INSERT INTO dia_shop_group (id,order_id,section_header_type,ms_label,event_id) V
 	 (27,0,1,'ShopScene_Content_Title_2',10012),
 	 (28,0,1,'ShopScene_Content_Title_2',10013),
 	 (29,0,1,'ShopScene_Content_Title_2',10014);
+INSERT INTO dia_shop_group (id,order_id,section_header_type,ms_label,event_id) VALUES
+	 (30,0,1,'ShopScene_Content_Title_2',10015),
+	 (31,0,1,'ShopScene_Content_Title_2',10016);

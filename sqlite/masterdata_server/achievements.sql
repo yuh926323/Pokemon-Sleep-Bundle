@@ -10,8 +10,8 @@ INSERT INTO achievements (id,type_id,name,short_name,"desc",cleard_message,param
 	 (9,9,'md_achievements_name_9','md_achievements_short_name_9','md_achievements_desc_9','cleard_message_9',0,0,0),
 	 (10,10,'md_achievements_name_10','md_achievements_short_name_10','md_achievements_desc_10','cleard_message_10',0,0,0);
 INSERT INTO achievements (id,type_id,name,short_name,"desc",cleard_message,param1,param2,param3) VALUES
-	 (11,11,'md_achievements_name_11','md_achievements_short_name_11','md_achievements_desc_11','cleard_message_11',0,0,0),
-	 (12,12,'md_achievements_name_12','md_achievements_short_name_12','md_achievements_desc_12','cleard_message_12',0,0,0),
+	 (11,11,'md_achievements_name_11','md_achievements_short_name_11','md_achievements_desc_11_v2','cleard_message_11',0,0,0),
+	 (12,12,'md_achievements_name_12','md_achievements_short_name_12','md_achievements_desc_12_v2','cleard_message_12',0,0,0),
 	 (13,13,'md_achievements_name_13','md_achievements_short_name_13','md_achievements_desc_13','cleard_message_13',0,0,0),
 	 (14,14,'md_achievements_name_14','md_achievements_short_name_14','md_achievements_desc_14','cleard_message_14',0,0,0),
 	 (15,15,'md_achievements_name_15','md_achievements_short_name_15','md_achievements_desc_15','cleard_message_15',1,0,0),

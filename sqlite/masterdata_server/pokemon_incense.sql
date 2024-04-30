@@ -17,7 +17,7 @@ INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc
 	 (15,'md_pokemon_incense_name_5',15,'1,3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (16,'md_pokemon_incense_name_79',16,'1,2,4,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (17,'md_pokemon_incense_name_158',17,'1,2','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
-	 (18,'md_pokemon_incense_name_159',18,'2','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
+	 (18,'md_pokemon_incense_name_159',18,'1,2','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (19,'md_pokemon_incense_name_50',19,'1,2,3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (20,'md_pokemon_incense_name_51',20,'1,3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0);
 INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc",desc_long,inventory_limit,start_date,time_zone_type) VALUES
@@ -30,7 +30,7 @@ INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc
 	 (27,'md_pokemon_incense_name_24',27,'1,2,3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (28,'md_pokemon_incense_name_104',28,'1,3,4','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (29,'md_pokemon_incense_name_155',29,'1,3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
-	 (30,'md_pokemon_incense_name_156',30,'1','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0);
+	 (30,'md_pokemon_incense_name_156',30,'1,3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0);
 INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc",desc_long,inventory_limit,start_date,time_zone_type) VALUES
 	 (31,'md_pokemon_incense_name_9',31,'1,2,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (32,'md_pokemon_incense_name_58',32,'1,2,3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
@@ -50,7 +50,7 @@ INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc
 	 (45,'md_pokemon_incense_name_93',45,'1,3,4','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (46,'md_pokemon_incense_name_105',46,'1,3,4','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (47,'md_pokemon_incense_name_152',47,'1,2,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
-	 (48,'md_pokemon_incense_name_153',48,'5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
+	 (48,'md_pokemon_incense_name_153',48,'1,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (49,'md_pokemon_incense_name_180',49,'1,4','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (50,'md_pokemon_incense_name_202',50,'1,3,4,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0);
 INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc",desc_long,inventory_limit,start_date,time_zone_type) VALUES
@@ -66,7 +66,7 @@ INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc
 	 (60,'md_pokemon_incense_name_55',60,'2','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0);
 INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc",desc_long,inventory_limit,start_date,time_zone_type) VALUES
 	 (61,'md_pokemon_incense_name_57',61,'1,2,4,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
-	 (62,'md_pokemon_incense_name_59',62,'1','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
+	 (62,'md_pokemon_incense_name_59',62,'3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (63,'md_pokemon_incense_name_71',63,'1,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (64,'md_pokemon_incense_name_76',64,'3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (65,'md_pokemon_incense_name_81',65,'1','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
@@ -77,17 +77,17 @@ INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc
 	 (70,'md_pokemon_incense_name_127',70,'1,2','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0);
 INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc",desc_long,inventory_limit,start_date,time_zone_type) VALUES
 	 (71,'md_pokemon_incense_name_132',71,'1,2,3,4,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
-	 (72,'md_pokemon_incense_name_134',72,'2','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
+	 (72,'md_pokemon_incense_name_134',72,'1,2','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (73,'md_pokemon_incense_name_135',73,'1','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
-	 (74,'md_pokemon_incense_name_136',74,'3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
-	 (78,'md_pokemon_incense_name_154',78,'5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
-	 (79,'md_pokemon_incense_name_157',79,'1','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
-	 (80,'md_pokemon_incense_name_160',80,'2','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
+	 (74,'md_pokemon_incense_name_136',74,'1,3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
+	 (78,'md_pokemon_incense_name_154',78,'1,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
+	 (79,'md_pokemon_incense_name_157',79,'1,3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
+	 (80,'md_pokemon_incense_name_160',80,'1,2','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (81,'md_pokemon_incense_name_176',81,'1,4,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (82,'md_pokemon_incense_name_181',82,'4','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
-	 (83,'md_pokemon_incense_name_196',83,'3,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0);
+	 (83,'md_pokemon_incense_name_196',83,'1,3,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0);
 INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc",desc_long,inventory_limit,start_date,time_zone_type) VALUES
-	 (84,'md_pokemon_incense_name_197',84,'3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
+	 (84,'md_pokemon_incense_name_197',84,'1,3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (85,'md_pokemon_incense_name_199',85,'2','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (86,'md_pokemon_incense_name_214',86,'1,2','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (87,'md_pokemon_incense_name_246',87,'1,3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
@@ -102,7 +102,7 @@ INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc
 	 (95,'md_pokemon_incense_name_288',95,'1,4','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (96,'md_pokemon_incense_name_289',96,'1,4','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (97,'md_pokemon_incense_name_462',97,'1','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
-	 (98,'md_pokemon_incense_name_471',98,'4','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
+	 (98,'md_pokemon_incense_name_471',98,'1,4','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (99,'md_pokemon_incense_name_334',99,'4,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (100,'md_pokemon_incense_name_447',100,'1,3,4,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (101,'md_pokemon_incense_name_448',101,'4','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
@@ -111,7 +111,7 @@ INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc
 INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc",desc_long,inventory_limit,start_date,time_zone_type) VALUES
 	 (104,'md_pokemon_incense_name_365',104,'4','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (105,'md_pokemon_incense_name_228',105,'1,3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
-	 (106,'md_pokemon_incense_name_229',106,'1','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
+	 (106,'md_pokemon_incense_name_229',106,'3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (107,'md_pokemon_incense_name_302',107,'3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (109,'md_pokemon_incense_name_439',109,'2','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
 	 (110,'md_pokemon_incense_name_122',110,'2','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,0,0),
@@ -141,3 +141,6 @@ INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc
 	 (130,'md_pokemon_incense_name_702',130,'1,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,1710169200,1),
 	 (131,'md_pokemon_incense_name_243',131,'1','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',1,1711378800,1),
 	 (132,'md_pokemon_incense_name_764',132,'1,2,5','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,1713798000,1);
+INSERT INTO pokemon_incense (id,name,target_pokemon_id,available_field_ids,"desc",desc_long,inventory_limit,start_date,time_zone_type) VALUES
+	 (133,'md_pokemon_incense_name_37',133,'1,3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,1715007600,1),
+	 (134,'md_pokemon_incense_name_38',134,'1,3','md_pokemon_incense_desc_1','md_pokemon_incense_desc_1_long',0,1715007600,1);

@@ -143,16 +143,18 @@ INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_
 	 (131,'p_243',131,0,24300);
 INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_id) VALUES
 	 (132,'p_764',132,0,76400),
+	 (133,'p_37',133,0,3700),
+	 (134,'p_38',134,0,3800),
 	 (10002,'p_25_s',1,1,2500),
 	 (10003,'p_133_s',2,1,13300),
 	 (10004,'p_19_s',3,1,1900),
 	 (10005,'p_52_s',4,1,5200),
 	 (10006,'p_172_s',5,1,17200),
 	 (10007,'p_1_s',6,1,100),
-	 (10008,'p_2_s',7,1,200),
-	 (10009,'p_10_s',8,1,1000),
-	 (10010,'p_11_s',9,1,1100);
+	 (10008,'p_2_s',7,1,200);
 INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_id) VALUES
+	 (10009,'p_10_s',8,1,1000),
+	 (10010,'p_11_s',9,1,1100),
 	 (10011,'p_12_s',10,1,1200),
 	 (10012,'p_39_s',11,1,3900),
 	 (10013,'p_7_s',12,1,700),
@@ -160,10 +162,10 @@ INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_
 	 (10015,'p_4_s',14,1,400),
 	 (10016,'p_5_s',15,1,500),
 	 (10017,'p_79_s',16,1,7900),
-	 (10018,'p_158_s',17,1,15800),
-	 (10019,'p_159_s',18,1,15900),
-	 (10020,'p_50_s',19,1,5000);
+	 (10018,'p_158_s',17,1,15800);
 INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_id) VALUES
+	 (10019,'p_159_s',18,1,15900),
+	 (10020,'p_50_s',19,1,5000),
 	 (10021,'p_51_s',20,1,5100),
 	 (10022,'p_40_s',21,1,4000),
 	 (10023,'p_3_s',22,1,300),
@@ -171,10 +173,10 @@ INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_
 	 (10025,'p_74_s',24,1,7400),
 	 (10026,'p_75_s',25,1,7500),
 	 (10027,'p_23_s',26,1,2300),
-	 (10028,'p_24_s',27,1,2400),
-	 (10029,'p_104_s',28,1,10400),
-	 (10030,'p_155_s',29,1,15500);
+	 (10028,'p_24_s',27,1,2400);
 INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_id) VALUES
+	 (10029,'p_104_s',28,1,10400),
+	 (10030,'p_155_s',29,1,15500),
 	 (10031,'p_156_s',30,1,15600),
 	 (10032,'p_9_s',31,1,900),
 	 (10033,'p_58_s',32,1,5800),
@@ -182,10 +184,10 @@ INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_
 	 (10035,'p_20_s',34,1,2000),
 	 (10036,'p_56_s',35,1,5600),
 	 (10037,'p_69_s',36,1,6900),
-	 (10038,'p_70_s',37,1,7000),
-	 (10039,'p_174_s',38,1,17400),
-	 (10040,'p_179_s',39,1,17900);
+	 (10038,'p_70_s',37,1,7000);
 INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_id) VALUES
+	 (10039,'p_174_s',38,1,17400),
+	 (10040,'p_179_s',39,1,17900),
 	 (10041,'p_185_s',40,1,18500),
 	 (10042,'p_54_s',41,1,5400),
 	 (10043,'p_80_s',42,1,8000),
@@ -193,10 +195,10 @@ INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_
 	 (10045,'p_92_s',44,1,9200),
 	 (10046,'p_93_s',45,1,9300),
 	 (10047,'p_105_s',46,1,10500),
-	 (10048,'p_152_s',47,1,15200),
-	 (10049,'p_153_s',48,1,15300),
-	 (10050,'p_180_s',49,1,18000);
+	 (10048,'p_152_s',47,1,15200);
 INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_id) VALUES
+	 (10049,'p_153_s',48,1,15300),
+	 (10050,'p_180_s',49,1,18000),
 	 (10051,'p_202_s',50,1,20200),
 	 (10052,'p_316_s',51,1,31600),
 	 (10053,'p_317_s',52,1,31700),
@@ -204,10 +206,10 @@ INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_
 	 (10055,'p_360_s',54,1,36000),
 	 (10056,'p_438_s',55,1,43800),
 	 (10057,'p_453_s',56,1,45300),
-	 (10058,'p_454_s',57,1,45400),
-	 (10059,'p_26_s',58,1,2600),
-	 (10060,'p_53_s',59,1,5300);
+	 (10058,'p_454_s',57,1,45400);
 INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_id) VALUES
+	 (10059,'p_26_s',58,1,2600),
+	 (10060,'p_53_s',59,1,5300),
 	 (10061,'p_55_s',60,1,5500),
 	 (10062,'p_57_s',61,1,5700),
 	 (10063,'p_59_s',62,1,5900),
@@ -215,10 +217,10 @@ INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_
 	 (10065,'p_76_s',64,1,7600),
 	 (10066,'p_81_s',65,1,8100),
 	 (10067,'p_82_s',66,1,8200),
-	 (10068,'p_85_s',67,1,8500),
-	 (10069,'p_94_s',68,1,9400),
-	 (10070,'p_115_s',69,1,11500);
+	 (10068,'p_85_s',67,1,8500);
 INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_id) VALUES
+	 (10069,'p_94_s',68,1,9400),
+	 (10070,'p_115_s',69,1,11500),
 	 (10071,'p_127_s',70,1,12700),
 	 (10072,'p_132_s',71,1,13200),
 	 (10073,'p_134_s',72,1,13400),
@@ -226,10 +228,10 @@ INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_
 	 (10075,'p_136_s',74,1,13600),
 	 (10079,'p_154_s',78,1,15400),
 	 (10080,'p_157_s',79,1,15700),
-	 (10081,'p_160_s',80,1,16000),
-	 (10082,'p_176_s',81,1,17600),
-	 (10083,'p_181_s',82,1,18100);
+	 (10081,'p_160_s',80,1,16000);
 INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_id) VALUES
+	 (10082,'p_176_s',81,1,17600),
+	 (10083,'p_181_s',82,1,18100),
 	 (10084,'p_196_s',83,1,19600),
 	 (10085,'p_197_s',84,1,19700),
 	 (10086,'p_199_s',85,1,19900),
@@ -237,10 +239,10 @@ INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_
 	 (10088,'p_246_s',87,1,24600),
 	 (10089,'p_247_s',88,1,24700),
 	 (10090,'p_248_s',89,1,24800),
-	 (10091,'p_470_s',90,1,47000),
-	 (10092,'p_359_s',91,1,35900),
-	 (10093,'p_700_s',92,1,70000);
+	 (10091,'p_470_s',90,1,47000);
 INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_id) VALUES
+	 (10092,'p_359_s',91,1,35900),
+	 (10093,'p_700_s',92,1,70000),
 	 (10094,'p_468_s',93,1,46800),
 	 (10095,'p_287_s',94,1,28700),
 	 (10096,'p_288_s',95,1,28800),
@@ -248,10 +250,10 @@ INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_
 	 (10098,'p_462_s',97,1,46200),
 	 (10099,'p_471_s',98,1,47100),
 	 (10100,'p_334_s',99,1,33400),
-	 (10101,'p_447_s',100,1,44700),
-	 (10102,'p_448_s',101,1,44800),
-	 (10103,'p_363_s',102,1,36300);
+	 (10101,'p_447_s',100,1,44700);
 INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_id) VALUES
+	 (10102,'p_448_s',101,1,44800),
+	 (10103,'p_363_s',102,1,36300),
 	 (10104,'p_364_s',103,1,36400),
 	 (10105,'p_365_s',104,1,36500),
 	 (10106,'p_228_s',105,1,22800),
@@ -259,10 +261,10 @@ INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_
 	 (10108,'p_302_s',107,1,30200),
 	 (10109,'p_439_s',109,1,43900),
 	 (10110,'p_122_s',110,1,12200),
-	 (10111,'p_173_s',111,1,17300),
-	 (10112,'p_35_s',112,1,3500),
-	 (10113,'p_36_s',113,1,3600);
+	 (10111,'p_173_s',111,1,17300);
 INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_id) VALUES
+	 (10112,'p_35_s',112,1,3500),
+	 (10113,'p_36_s',113,1,3600),
 	 (19001,'p_9001_s',9001,1,2501),
 	 (10114,'p_353_s',114,1,35300),
 	 (10115,'p_354_s',115,1,35400),
@@ -270,10 +272,10 @@ INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_
 	 (10117,'p_208_s',117,1,20800),
 	 (10118,'p_225_s',118,1,22500),
 	 (10119,'p_459_s',119,1,45900),
-	 (10120,'p_460_s',120,1,46000),
-	 (19002,'p_9002_s',9002,1,2502),
-	 (10121,'p_147_s',121,1,14700);
+	 (10120,'p_460_s',120,1,46000);
 INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_id) VALUES
+	 (19002,'p_9002_s',9002,1,2502),
+	 (10121,'p_147_s',121,1,14700),
 	 (10122,'p_148_s',122,1,14800),
 	 (10123,'p_149_s',123,1,14900),
 	 (10124,'p_280_s',124,1,28000),
@@ -281,8 +283,10 @@ INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_
 	 (10126,'p_282_s',126,1,28200),
 	 (10127,'p_475_s',127,1,47500),
 	 (10128,'p_759_s',128,1,75900),
-	 (10129,'p_760_s',129,1,76000),
-	 (10130,'p_702_s',130,1,70200),
-	 (10131,'p_243_s',131,1,24300);
+	 (10129,'p_760_s',129,1,76000);
 INSERT INTO profile_icons (id,image_id,unlock_captured_pokemon_id,is_shiny,sort_id) VALUES
-	 (10132,'p_764_s',132,1,76400);
+	 (10130,'p_702_s',130,1,70200),
+	 (10131,'p_243_s',131,1,24300),
+	 (10132,'p_764_s',132,1,76400),
+	 (10133,'p_37_s',133,1,3700),
+	 (10134,'p_38_s',134,1,3800);

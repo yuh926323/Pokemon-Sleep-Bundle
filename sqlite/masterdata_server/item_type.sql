@@ -33,4 +33,6 @@ INSERT INTO item_type (id,name) VALUES
 	 (29,'種族のおこう');
 INSERT INTO item_type (id,name) VALUES
 	 (30,'期間限定アイテム'),
-	 (31,'課金バンドル');
+	 (31,'課金バンドル'),
+	 (32,'イベント交換用アイテム（ライコウのたてがみ等）'),
+	 (33,'タイプアメ');

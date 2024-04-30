@@ -141,3 +141,6 @@ INSERT INTO pokemon_pickup_status (id,pokemon_id,need_sec,normal_berry_id,normal
 	 (130,130,2500,4,1,13,19,3,0),
 	 (131,131,2100,4,1,14,22,3,0),
 	 (132,132,2500,18,1,4,20,2,0);
+INSERT INTO pokemon_pickup_status (id,pokemon_id,need_sec,normal_berry_id,normal_berry_num,main_skill_id,max_own_item_count,formation_tag,ver) VALUES
+	 (133,133,4700,2,2,4,13,1,0),
+	 (134,134,2600,2,2,4,23,1,0);

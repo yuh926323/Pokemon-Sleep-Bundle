@@ -141,3 +141,6 @@ INSERT INTO pokedex_data (id,pokemon_id,weight,height,pokedex_number,category_na
 	 (130,130,4,60,702,'md_pokedex_data_category_name_702','md_pokedex_data_desc_702',1,1,0,1,0),
 	 (131,131,4,60,243,'md_pokedex_data_category_name_243','md_pokedex_data_desc_243',0,0,1,3,0),
 	 (132,132,4,60,764,'md_pokedex_data_category_name_764','md_pokedex_data_desc_764',1,1,0,1,0);
+INSERT INTO pokedex_data (id,pokemon_id,weight,height,pokedex_number,category_name,"desc",has_male,has_female,is_gender_unknown,default_gender,has_event) VALUES
+	 (133,133,4,60,37,'md_pokedex_data_category_name_37','md_pokedex_data_desc_37',1,1,0,1,0),
+	 (134,134,4,60,38,'md_pokedex_data_category_name_38','md_pokedex_data_desc_38',1,1,0,1,0);

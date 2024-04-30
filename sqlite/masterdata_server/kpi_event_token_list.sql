@@ -145,4 +145,7 @@ INSERT INTO kpi_event_token_list (id,event_name,token) VALUES
 	 (131,'use_dia_shop_41','nryfh6'),
 	 (132,'tutorial_cooking','t3ea7h'),
 	 (133,'tutorial_masterball','dkwunc'),
-	 (134,'ipa_pokemonsleep.bundle001','knwjt7');
+	 (134,'ipa_pokemonsleep.bundle001','knwjt7'),
+	 (135,'use_dia_shop_49','4iqrv3'),
+	 (136,'use_dia_shop_50','t0ljtx'),
+	 (137,'use_dia_shop_51','20moy5');

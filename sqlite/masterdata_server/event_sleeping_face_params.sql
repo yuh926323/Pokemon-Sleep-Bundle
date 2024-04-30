@@ -76,4 +76,6 @@ INSERT INTO event_sleeping_face_params (id,event_id,pokemon_face_ids,for_hide,de
 	 (64,126,'436,437,438,439,440,441,442,443,444,445,446,447',0,'md_event_sleeping_face_params_3'),
 	 (65,127,'436,437,438,439,440,441,442,443,444,445,446,447',0,'md_event_sleeping_face_params_2');
 INSERT INTO event_sleeping_face_params (id,event_id,pokemon_face_ids,for_hide,desc_label) VALUES
-	 (66,90008,'515,516,517,518',1,'dummy');
+	 (66,90008,'515,516,517,518',1,'dummy'),
+	 (67,128,'40,41,42,43,44,45,85,86,87,88,89,90,94,95,96,97,98,99,184,185,186,220,221,222,235,236,237,519,520,521,523,524,525',0,'md_event_sleeping_face_params_2'),
+	 (68,90009,'519,520,521,522,523,524,525,526',1,'dummy');

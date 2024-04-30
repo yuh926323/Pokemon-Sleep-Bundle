@@ -559,3 +559,12 @@ INSERT INTO event_trade_item_sleeping_faces (id,sleeping_faces_id,research_item_
 	 (508,516,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
 	 (509,517,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
 	 (510,518,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO event_trade_item_sleeping_faces (id,sleeping_faces_id,research_item_id_1,research_num_1,research_item_id_2,research_num_2,research_item_id_3,research_num_3,research_item_id_4,research_num_4,research_item_id_5,research_num_5,research_item_id_6,research_num_6,research_item_id_7,research_num_7,research_item_id_8,research_num_8,research_item_id_9,research_num_9,research_item_id_10,research_num_10) VALUES
+	 (511,519,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
+	 (512,520,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
+	 (513,521,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
+	 (514,522,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
+	 (515,523,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
+	 (516,524,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
+	 (517,525,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
+	 (518,526,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

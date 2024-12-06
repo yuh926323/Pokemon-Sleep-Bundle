@@ -68,16 +68,71 @@ INSERT INTO dia_shop (id,price,name,item_type,item_id,item_num,order_id,group_id
 	 (60,600,'md_event_item_packs_name_33',30,48,1,2,26,1,'use_dia_shop_40'),
 	 (61,1500,'md_event_item_packs_name_34',30,49,1,3,26,1,'use_dia_shop_41'),
 	 (62,1500,'md_event_item_packs_name_3',30,50,1,1,27,1,'use_dia_shop_15'),
-	 (63,250,'md_event_item_packs_name_35',30,51,1,1,28,3,'use_dia_shop_41'),
-	 (64,1200,'md_event_item_packs_name_36',30,52,1,2,28,1,'use_dia_shop_42'),
-	 (65,3000,'md_event_item_packs_name_37',30,53,1,3,28,1,'use_dia_shop_43'),
-	 (66,600,'md_event_item_packs_name_38',30,54,1,1,29,1,'use_dia_shop_44'),
-	 (67,1500,'md_event_item_packs_name_39',30,55,1,2,29,1,'use_dia_shop_45'),
-	 (68,250,'md_event_item_packs_name_40',30,56,1,1,30,3,'use_dia_shop_46'),
-	 (69,600,'md_event_item_packs_name_41',30,57,1,2,30,1,'use_dia_shop_47');
+	 (63,250,'md_event_item_packs_name_35',30,51,1,1,28,3,'use_dia_shop_16'),
+	 (64,1200,'md_event_item_packs_name_36',30,52,1,2,28,1,'use_dia_shop_16'),
+	 (65,3000,'md_event_item_packs_name_37',30,53,1,3,28,1,'use_dia_shop_16'),
+	 (66,600,'md_event_item_packs_name_38',30,54,1,1,29,1,'use_dia_shop_16'),
+	 (67,1500,'md_event_item_packs_name_39',30,55,1,2,29,1,'use_dia_shop_16'),
+	 (68,250,'md_event_item_packs_name_40',30,56,1,1,30,3,'use_dia_shop_16'),
+	 (69,600,'md_event_item_packs_name_41',30,57,1,2,30,1,'use_dia_shop_16');
 INSERT INTO dia_shop (id,price,name,item_type,item_id,item_num,order_id,group_id,limit_count,tracking_name) VALUES
-	 (70,1500,'md_event_item_packs_name_42',30,58,1,3,30,1,'use_dia_shop_48'),
+	 (70,1500,'md_event_item_packs_name_42',30,58,1,3,30,1,'use_dia_shop_16'),
 	 (71,1500,'md_event_item_packs_name_3',30,59,1,1,31,1,'use_dia_shop_15'),
 	 (72,250,'md_event_item_packs_name_43',30,60,1,1,32,3,'use_dia_shop_49'),
 	 (73,600,'md_event_item_packs_name_44',30,61,1,2,32,1,'use_dia_shop_50'),
-	 (74,1500,'md_event_item_packs_name_45',30,62,1,3,32,1,'use_dia_shop_51');
+	 (74,1500,'md_event_item_packs_name_45',30,62,1,3,32,1,'use_dia_shop_51'),
+	 (75,250,'md_event_item_packs_name_46',30,63,1,1,33,3,'use_dia_shop_52'),
+	 (76,1200,'md_event_item_packs_name_47',30,64,1,2,33,1,'use_dia_shop_53'),
+	 (77,3000,'md_event_item_packs_name_48',30,65,1,3,33,1,'use_dia_shop_54'),
+	 (78,250,'md_event_item_packs_name_49',30,66,1,1,34,3,'use_dia_shop_55'),
+	 (79,600,'md_event_item_packs_name_50',30,67,1,2,34,1,'use_dia_shop_56');
+INSERT INTO dia_shop (id,price,name,item_type,item_id,item_num,order_id,group_id,limit_count,tracking_name) VALUES
+	 (80,1500,'md_event_item_packs_name_51',30,68,1,3,34,1,'use_dia_shop_57'),
+	 (81,1500,'md_event_item_packs_name_3',30,69,1,1,35,1,'use_dia_shop_15'),
+	 (82,250,'md_event_item_packs_name_52',30,70,1,1,36,3,'use_dia_shop_58'),
+	 (83,1200,'md_event_item_packs_name_53',30,71,1,2,36,1,'use_dia_shop_59'),
+	 (84,3000,'md_event_item_packs_name_54',30,72,1,3,36,1,'use_dia_shop_60'),
+	 (85,1500,'md_event_item_packs_name_3',30,73,1,1,37,1,'use_dia_shop_15'),
+	 (86,600,'md_event_item_packs_name_55',30,74,1,1,38,3,'use_dia_shop_61'),
+	 (87,1500,'md_event_item_packs_name_56',30,75,1,1,39,1,'use_dia_shop_62'),
+	 (88,1500,'md_event_item_packs_name_57',30,76,1,2,39,1,'use_dia_shop_63'),
+	 (89,1500,'md_event_item_packs_name_58',30,77,1,3,39,1,'use_dia_shop_64');
+INSERT INTO dia_shop (id,price,name,item_type,item_id,item_num,order_id,group_id,limit_count,tracking_name) VALUES
+	 (90,600,'md_event_item_packs_name_59',30,78,1,1,40,3,'use_dia_shop_65'),
+	 (91,1500,'md_event_item_packs_name_60',30,79,1,2,40,1,'use_dia_shop_66'),
+	 (92,3000,'md_event_item_packs_name_61',30,80,1,3,40,1,'use_dia_shop_67'),
+	 (93,1500,'md_event_item_packs_name_3_v190',30,81,1,1,41,1,'use_dia_shop_15'),
+	 (94,400,'temp',9,6,1,11,42,3,'use_dia_shop_68'),
+	 (20002,0,'md_event_purchase_item_packs_name_2',31,994,1,1,20002,1,'ipa_pokemonsleep.bundle002'),
+	 (95,1500,'md_event_item_packs_name_3_v190',30,82,1,1,44,1,'use_dia_shop_15'),
+	 (96,250,'md_event_item_packs_name_62',30,83,1,1,45,3,'use_dia_shop_69'),
+	 (97,600,'md_event_item_packs_name_63',30,84,1,2,45,1,'use_dia_shop_70'),
+	 (98,1500,'md_event_item_packs_name_64',30,85,1,3,45,1,'use_dia_shop_71');
+INSERT INTO dia_shop (id,price,name,item_type,item_id,item_num,order_id,group_id,limit_count,tracking_name) VALUES
+	 (99,250,'md_event_item_packs_name_71',30,86,1,1,43,3,'use_dia_shop_72'),
+	 (100,600,'md_event_item_packs_name_72',30,87,1,2,43,1,'use_dia_shop_73'),
+	 (101,1500,'md_event_item_packs_name_73',30,88,1,3,43,1,'use_dia_shop_74'),
+	 (102,250,'md_event_item_packs_name_65',30,89,1,1,46,3,'use_dia_shop_75'),
+	 (103,1200,'md_event_item_packs_name_66',30,90,1,2,46,1,'use_dia_shop_76'),
+	 (104,3000,'md_event_item_packs_name_67',30,91,1,3,46,1,'use_dia_shop_77'),
+	 (105,250,'md_event_item_packs_name_68',30,92,1,1,47,3,'use_dia_shop_78'),
+	 (106,600,'md_event_item_packs_name_69',30,93,1,2,47,2,'use_dia_shop_79'),
+	 (107,1500,'md_event_item_packs_name_70',30,94,1,3,47,2,'use_dia_shop_80'),
+	 (108,1500,'md_event_item_packs_name_3_v190',30,95,1,1,48,1,'use_dia_shop_15');
+INSERT INTO dia_shop (id,price,name,item_type,item_id,item_num,order_id,group_id,limit_count,tracking_name) VALUES
+	 (109,250,'md_event_item_packs_name_74',30,96,1,1,49,3,'use_dia_shop_81'),
+	 (110,600,'md_event_item_packs_name_75',30,97,1,2,49,1,'use_dia_shop_82'),
+	 (111,1500,'md_event_item_packs_name_76',30,98,1,3,49,1,'use_dia_shop_83'),
+	 (112,250,'md_event_item_packs_name_77',30,99,1,1,50,1,'use_dia_shop_84'),
+	 (113,1200,'md_event_item_packs_name_78',30,100,1,2,50,1,'use_dia_shop_85'),
+	 (114,3000,'md_event_item_packs_name_79',30,101,1,3,50,1,'use_dia_shop_86'),
+	 (115,1500,'md_event_item_packs_name_80',30,102,1,1,51,1,'use_dia_shop_87'),
+	 (116,1500,'md_event_item_packs_name_3_v190',30,103,1,1,52,1,'use_dia_shop_15'),
+	 (117,250,'md_event_item_packs_name_81',30,104,1,1,53,3,'use_dia_shop_88'),
+	 (118,1200,'md_event_item_packs_name_82',30,105,1,2,53,1,'use_dia_shop_89');
+INSERT INTO dia_shop (id,price,name,item_type,item_id,item_num,order_id,group_id,limit_count,tracking_name) VALUES
+	 (119,3000,'md_event_item_packs_name_83',30,106,1,3,53,1,'use_dia_shop_90'),
+	 (120,1500,'md_event_item_packs_name_3_v190',30,107,1,1,54,1,'use_dia_shop_15'),
+	 (121,250,'md_event_item_packs_name_84',30,108,1,1,55,3,'use_dia_shop_91'),
+	 (122,1200,'md_event_item_packs_name_85',30,109,1,2,55,1,'use_dia_shop_92'),
+	 (123,3000,'md_event_item_packs_name_86',30,110,1,3,55,1,'use_dia_shop_93');

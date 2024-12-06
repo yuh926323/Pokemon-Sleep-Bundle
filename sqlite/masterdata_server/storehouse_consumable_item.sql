@@ -32,4 +32,9 @@ INSERT INTO storehouse_consumable_item (id,"level",max_num,price) VALUES
 	 (29,29,660,120),
 	 (30,30,680,120);
 INSERT INTO storehouse_consumable_item (id,"level",max_num,price) VALUES
-	 (31,31,700,120);
+	 (31,31,700,120),
+	 (32,32,720,120),
+	 (33,33,740,120),
+	 (34,34,760,120),
+	 (35,35,780,120),
+	 (36,36,800,120);

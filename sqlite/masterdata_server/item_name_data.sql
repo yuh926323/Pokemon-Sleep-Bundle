@@ -99,4 +99,9 @@ INSERT INTO item_name_data (id,item_type,item_id,name,"desc",desc_short) VALUES
 	 (89,33,48,'item_name_89','item_desc_74_to_91','item_desc_short_74_to_91');
 INSERT INTO item_name_data (id,item_type,item_id,name,"desc",desc_short) VALUES
 	 (90,33,51,'item_name_90','item_desc_74_to_91','item_desc_short_74_to_91'),
-	 (91,33,54,'item_name_91','item_desc_74_to_91','item_desc_short_74_to_91');
+	 (91,33,54,'item_name_91','item_desc_74_to_91','item_desc_short_74_to_91'),
+	 (92,9,5,'item_name_92','item_desc_92','item_desc_short_92'),
+	 (93,32,2,'item_name_93','item_desc_93','item_desc_short_93'),
+	 (94,9,6,'item_name_94','item_desc_94','item_desc_short_94'),
+	 (95,9,7,'item_name_95','item_desc_95','item_desc_short_95'),
+	 (96,32,3,'item_name_96','item_desc_96','item_desc_short_96');

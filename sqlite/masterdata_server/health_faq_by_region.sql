@@ -1,0 +1,88 @@
+INSERT INTO health_faq_by_region (id,region_and_language_id,faq_id,url_id) VALUES
+	 (1,1,1,1),
+	 (2,1,2,2),
+	 (3,1,3,3),
+	 (4,1,4,4),
+	 (5,1,5,5),
+	 (6,1,6,6),
+	 (7,2,1,7),
+	 (8,2,2,8),
+	 (9,2,3,9),
+	 (10,2,4,10);
+INSERT INTO health_faq_by_region (id,region_and_language_id,faq_id,url_id) VALUES
+	 (11,2,5,11),
+	 (12,2,6,12),
+	 (13,3,1,13),
+	 (14,3,2,14),
+	 (15,3,3,15),
+	 (16,3,4,16),
+	 (17,3,5,17),
+	 (18,3,6,18),
+	 (19,4,1,21),
+	 (20,4,2,22);
+INSERT INTO health_faq_by_region (id,region_and_language_id,faq_id,url_id) VALUES
+	 (21,4,3,23),
+	 (22,4,4,24),
+	 (23,4,5,25),
+	 (24,4,6,26),
+	 (25,5,1,20),
+	 (26,5,2,20),
+	 (27,5,3,20),
+	 (28,5,4,20),
+	 (29,5,5,20),
+	 (30,5,6,20);
+INSERT INTO health_faq_by_region (id,region_and_language_id,faq_id,url_id) VALUES
+	 (31,6,1,27),
+	 (32,6,2,27),
+	 (33,6,3,27),
+	 (34,6,4,27),
+	 (35,6,5,27),
+	 (36,6,6,27),
+	 (37,7,1,28),
+	 (38,7,2,28),
+	 (39,7,3,28),
+	 (40,7,4,28);
+INSERT INTO health_faq_by_region (id,region_and_language_id,faq_id,url_id) VALUES
+	 (41,7,5,28),
+	 (42,7,6,28),
+	 (43,8,1,29),
+	 (44,8,2,29),
+	 (45,8,3,29),
+	 (46,8,4,29),
+	 (47,8,5,29),
+	 (48,8,6,29),
+	 (49,9,1,30),
+	 (50,9,2,30);
+INSERT INTO health_faq_by_region (id,region_and_language_id,faq_id,url_id) VALUES
+	 (51,9,3,30),
+	 (52,9,4,30),
+	 (53,9,5,30),
+	 (54,9,6,30),
+	 (55,10,1,7),
+	 (56,10,2,8),
+	 (57,10,3,9),
+	 (58,10,4,10),
+	 (59,10,5,11),
+	 (60,10,6,12);
+INSERT INTO health_faq_by_region (id,region_and_language_id,faq_id,url_id) VALUES
+	 (61,1,7,31),
+	 (62,2,7,32),
+	 (63,3,7,33),
+	 (64,4,7,34),
+	 (65,5,7,20),
+	 (66,6,7,27),
+	 (67,7,7,28),
+	 (68,8,7,29),
+	 (69,9,7,30),
+	 (70,10,7,32);
+INSERT INTO health_faq_by_region (id,region_and_language_id,faq_id,url_id) VALUES
+	 (71,1,8,31),
+	 (72,2,8,32),
+	 (73,3,8,33),
+	 (74,4,8,34),
+	 (75,5,8,20),
+	 (76,6,8,27),
+	 (77,7,8,28),
+	 (78,8,8,29),
+	 (79,9,8,30),
+	 (80,10,8,32);

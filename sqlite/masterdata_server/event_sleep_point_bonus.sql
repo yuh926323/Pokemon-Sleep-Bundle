@@ -34,4 +34,28 @@ INSERT INTO event_sleep_point_bonus (id,event_id,add_point) VALUES
 INSERT INTO event_sleep_point_bonus (id,event_id,add_point) VALUES
 	 (31,125,500),
 	 (32,126,1000),
-	 (33,127,500);
+	 (33,127,500),
+	 (34,143,500),
+	 (35,144,1000),
+	 (36,145,500),
+	 (37,149,500),
+	 (38,150,1000),
+	 (39,151,500),
+	 (40,159,500);
+INSERT INTO event_sleep_point_bonus (id,event_id,add_point) VALUES
+	 (41,160,1000),
+	 (42,161,500),
+	 (43,165,500),
+	 (44,166,1000),
+	 (45,167,500),
+	 (46,184,500),
+	 (47,185,1000),
+	 (48,186,500),
+	 (49,196,500),
+	 (50,197,1000);
+INSERT INTO event_sleep_point_bonus (id,event_id,add_point) VALUES
+	 (51,198,500),
+	 (52,205,500),
+	 (53,206,1000),
+	 (54,207,500),
+	 (55,209,1121);

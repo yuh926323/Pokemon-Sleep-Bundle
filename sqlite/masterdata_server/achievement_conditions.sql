@@ -405,3 +405,47 @@ INSERT INTO achievement_conditions (id,"desc",achievement_id,step,clear_count,re
 	 (368,'md_achievement_conditions_desc_368',37,8,25,2,1,20,0,0,0),
 	 (369,'md_achievement_conditions_desc_369',37,9,30,10,1,2,0,0,0),
 	 (370,'md_achievement_conditions_desc_370',37,10,35,26,1,1,0,0,0);
+INSERT INTO achievement_conditions (id,"desc",achievement_id,step,clear_count,reward_item_type,reward_item_id,reward_item_num,condition1,condition2,condition3) VALUES
+	 (371,'md_achievement_conditions_desc_81',38,1,72000,2,1,20,0,0,0),
+	 (372,'md_achievement_conditions_desc_82',38,2,180000,2,1,20,0,0,0),
+	 (373,'md_achievement_conditions_desc_83',38,3,360000,2,1,25,0,0,0),
+	 (374,'md_achievement_conditions_desc_84',38,4,720000,2,1,30,0,0,0),
+	 (375,'md_achievement_conditions_desc_85',38,5,1260000,2,1,35,0,0,0),
+	 (376,'md_achievement_conditions_desc_86',38,6,2160000,2,1,40,0,0,0),
+	 (377,'md_achievement_conditions_desc_87',38,7,3600000,2,1,50,0,0,0),
+	 (378,'md_achievement_conditions_desc_88',38,8,6480000,2,1,70,0,0,0),
+	 (379,'md_achievement_conditions_desc_89',38,9,10800000,2,1,90,0,0,0),
+	 (380,'md_achievement_conditions_desc_90',38,10,18000000,2,1,120,0,0,0);
+INSERT INTO achievement_conditions (id,"desc",achievement_id,step,clear_count,reward_item_type,reward_item_id,reward_item_num,condition1,condition2,condition3) VALUES
+	 (381,'md_achievement_conditions_desc_81',39,1,72000,2,1,20,0,0,0),
+	 (382,'md_achievement_conditions_desc_82',39,2,180000,2,1,20,0,0,0),
+	 (383,'md_achievement_conditions_desc_83',39,3,360000,2,1,25,0,0,0),
+	 (384,'md_achievement_conditions_desc_84',39,4,720000,2,1,30,0,0,0),
+	 (385,'md_achievement_conditions_desc_85',39,5,1260000,2,1,35,0,0,0),
+	 (386,'md_achievement_conditions_desc_86',39,6,2160000,2,1,40,0,0,0),
+	 (387,'md_achievement_conditions_desc_87',39,7,3600000,2,1,50,0,0,0),
+	 (388,'md_achievement_conditions_desc_88',39,8,6480000,2,1,70,0,0,0),
+	 (389,'md_achievement_conditions_desc_89',39,9,10800000,2,1,90,0,0,0),
+	 (390,'md_achievement_conditions_desc_90',39,10,18000000,2,1,120,0,0,0);
+INSERT INTO achievement_conditions (id,"desc",achievement_id,step,clear_count,reward_item_type,reward_item_id,reward_item_num,condition1,condition2,condition3) VALUES
+	 (391,'md_achievement_conditions_desc_81',40,1,72000,2,1,20,0,0,0),
+	 (392,'md_achievement_conditions_desc_82',40,2,180000,2,1,20,0,0,0),
+	 (393,'md_achievement_conditions_desc_83',40,3,360000,2,1,25,0,0,0),
+	 (394,'md_achievement_conditions_desc_84',40,4,720000,2,1,30,0,0,0),
+	 (395,'md_achievement_conditions_desc_85',40,5,1260000,2,1,35,0,0,0),
+	 (396,'md_achievement_conditions_desc_86',40,6,2160000,2,1,40,0,0,0),
+	 (397,'md_achievement_conditions_desc_87',40,7,3600000,2,1,50,0,0,0),
+	 (398,'md_achievement_conditions_desc_88',40,8,6480000,2,1,70,0,0,0),
+	 (399,'md_achievement_conditions_desc_89',40,9,10800000,2,1,90,0,0,0),
+	 (400,'md_achievement_conditions_desc_90',40,10,18000000,2,1,120,0,0,0);
+INSERT INTO achievement_conditions (id,"desc",achievement_id,step,clear_count,reward_item_type,reward_item_id,reward_item_num,condition1,condition2,condition3) VALUES
+	 (401,'md_achievement_conditions_desc_361',41,1,3,10,1,1,0,0,0),
+	 (402,'md_achievement_conditions_desc_362',41,2,6,9,1,1,0,0,0),
+	 (403,'md_achievement_conditions_desc_363',41,3,9,25,1,2,0,0,0),
+	 (404,'md_achievement_conditions_desc_364',41,4,11,10,1,2,0,0,0),
+	 (405,'md_achievement_conditions_desc_365',41,5,14,9,1,1,0,0,0),
+	 (406,'md_achievement_conditions_desc_366',41,6,16,2,1,10,0,0,0),
+	 (407,'md_achievement_conditions_desc_367',41,7,20,10,1,3,0,0,0),
+	 (408,'md_achievement_conditions_desc_368',41,8,25,2,1,20,0,0,0),
+	 (409,'md_achievement_conditions_desc_369',41,9,30,10,1,3,0,0,0),
+	 (410,'md_achievement_conditions_desc_370',41,10,35,26,1,1,0,0,0);

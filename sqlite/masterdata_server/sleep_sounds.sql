@@ -6,4 +6,6 @@ INSERT INTO sleep_sounds (id,name,sort_order,file_id,sound_type) VALUES
 	 (5,'md_sleep_sounds_name_bgm_3',1003,'bgm_before_sleep_pokeflute',2),
 	 (6,'md_sleep_sounds_name_bgm_4',1004,'bgm_before_sleep_gamesync',2),
 	 (7,'md_sleep_sounds_name_bgm_5',1005,'bgm_before_sleep_campfire',2),
-	 (8,'md_sleep_sounds_name_bgm_6',1006,'bgm_before_sleep_wave',2);
+	 (8,'md_sleep_sounds_name_bgm_6',1006,'bgm_before_sleep_wave',2),
+	 (9,'md_sleep_sounds_name_alarm_3',3,'se_wake_up_alarm_berry',1),
+	 (10,'md_sleep_sounds_name_alarm_4',4,'se_wake_up_alarm_calm',1);

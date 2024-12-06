@@ -9,3 +9,6 @@ INSERT INTO main_missions (id,name,need_library_num,unlock_field_id,unlock_featu
 	 (8,'md_main_missions_name_8',190,0,0,100,0,0,11,'21,10','1,2','1,1',15000,1689552000),
 	 (9,'md_main_missions_name_9',240,5,0,100,0,0,13,'17,10','2,2','1,1',15500,1706108400),
 	 (10,'md_main_missions_name_10',290,0,0,100,0,0,15,'27,10','1,2','1,1',16000,1706108400);
+INSERT INTO main_missions (id,name,need_library_num,unlock_field_id,unlock_features,reward_dia_num,additional_cooking_max_num,optinal_task_ids,cooking_expand_level_limit,reward_item_types,reward_item_ids,reward_item_nums,snorlax_growth_multiplier_max,release_date) VALUES
+	 (11,'md_main_missions_name_11',340,6,0,100,0,0,17,'17,10','2,2','1,1',16500,1727881200),
+	 (12,'md_main_missions_name_12',390,0,0,100,0,0,19,'26,10','1,2','1,1',17500,1727881200);

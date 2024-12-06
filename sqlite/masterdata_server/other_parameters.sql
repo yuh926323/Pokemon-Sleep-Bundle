@@ -68,4 +68,17 @@ INSERT INTO other_parameters (id,"key",value) VALUES
 	 (79,'week_end_cook_success_rate',300),
 	 (80,'main_skill_cook_success_per_up_max',700),
 	 (81,'pickup_time_shorten_max_num',350),
-	 (82,'last_one_pseudo_lottery_adopt_rate',800);
+	 (82,'last_one_pseudo_lottery_adopt_rate',800),
+	 (83,'beginner_researcher_snorlax_growth_multiplier_add_per',1000),
+	 (84,'snorlax_growth_multiplier_limit_per',10000),
+	 (85,'beginner_researcher_days',7),
+	 (86,'tutorial_event_candy_cramorant_robot_species_candy_item_id',1),
+	 (87,'tutorial_event_candy_cramorant_robot_species_candy_item_num',40),
+	 (88,'tutorial_event_candy_cramorant_robot_coin_item_num',1000);
+INSERT INTO other_parameters (id,"key",value) VALUES
+	 (89,'release_profile_icon_ribbon_rank',3),
+	 (90,'popup_review_redisplay_day',120),
+	 (91,'comeback_researcher_days',7),
+	 (92,'comeback_researcher_sleep_point',300),
+	 (94,'event_expiration_days',180),
+	 (96,'skill_berry_burst_great_success_value',3);

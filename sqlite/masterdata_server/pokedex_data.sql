@@ -143,4 +143,32 @@ INSERT INTO pokedex_data (id,pokemon_id,weight,height,pokedex_number,category_na
 	 (132,132,4,60,764,'md_pokedex_data_category_name_764','md_pokedex_data_desc_764',1,1,0,1,0);
 INSERT INTO pokedex_data (id,pokemon_id,weight,height,pokedex_number,category_name,"desc",has_male,has_female,is_gender_unknown,default_gender,has_event) VALUES
 	 (133,133,4,60,37,'md_pokedex_data_category_name_37','md_pokedex_data_desc_37',1,1,0,1,0),
-	 (134,134,4,60,38,'md_pokedex_data_category_name_38','md_pokedex_data_desc_38',1,1,0,1,0);
+	 (134,134,4,60,38,'md_pokedex_data_category_name_38','md_pokedex_data_desc_38',1,1,0,1,0),
+	 (135,135,4,60,244,'md_pokedex_data_category_name_244','md_pokedex_data_desc_244',0,0,1,3,0),
+	 (136,136,4,60,845,'md_pokedex_data_category_name_845','md_pokedex_data_desc_845',1,1,0,1,0),
+	 (137,137,4,60,906,'md_pokedex_data_category_name_906','md_pokedex_data_desc_906',1,1,0,1,0),
+	 (138,138,4,60,907,'md_pokedex_data_category_name_907','md_pokedex_data_desc_907',1,1,0,1,0),
+	 (139,139,4,60,908,'md_pokedex_data_category_name_908','md_pokedex_data_desc_908',1,1,0,1,0),
+	 (140,140,4,60,909,'md_pokedex_data_category_name_909','md_pokedex_data_desc_909',1,1,0,1,0),
+	 (141,141,4,60,910,'md_pokedex_data_category_name_910','md_pokedex_data_desc_910',1,1,0,1,0),
+	 (142,142,4,60,911,'md_pokedex_data_category_name_911','md_pokedex_data_desc_911',1,1,0,1,0);
+INSERT INTO pokedex_data (id,pokemon_id,weight,height,pokedex_number,category_name,"desc",has_male,has_female,is_gender_unknown,default_gender,has_event) VALUES
+	 (143,143,4,60,912,'md_pokedex_data_category_name_912','md_pokedex_data_desc_912',1,1,0,1,0),
+	 (144,144,4,60,913,'md_pokedex_data_category_name_913','md_pokedex_data_desc_913',1,1,0,1,0),
+	 (145,145,4,60,914,'md_pokedex_data_category_name_914','md_pokedex_data_desc_914',1,1,0,1,0),
+	 (146,146,4,60,194,'md_pokedex_data_category_name_194','md_pokedex_data_desc_194',1,1,0,1,0),
+	 (147,147,4,60,195,'md_pokedex_data_category_name_195','md_pokedex_data_desc_195',1,1,0,2,0),
+	 (148,148,4,60,245,'md_pokedex_data_category_name_245','md_pokedex_data_desc_245',0,0,1,3,0),
+	 (149,149,4,60,736,'md_pokedex_data_category_name_736','md_pokedex_data_desc_736',1,1,0,1,0),
+	 (150,150,4,60,737,'md_pokedex_data_category_name_737','md_pokedex_data_desc_737',1,1,0,1,0),
+	 (151,151,4,60,738,'md_pokedex_data_category_name_738','md_pokedex_data_desc_738',1,1,0,1,0),
+	 (152,152,4,60,403,'md_pokedex_data_category_name_403','md_pokedex_data_desc_403',1,1,0,1,0);
+INSERT INTO pokedex_data (id,pokemon_id,weight,height,pokedex_number,category_name,"desc",has_male,has_female,is_gender_unknown,default_gender,has_event) VALUES
+	 (153,153,4,60,404,'md_pokedex_data_category_name_404','md_pokedex_data_desc_404',1,1,0,1,0),
+	 (154,154,4,60,405,'md_pokedex_data_category_name_405','md_pokedex_data_desc_405',1,1,0,1,0),
+	 (155,155,4,60,304,'md_pokedex_data_category_name_304','md_pokedex_data_desc_304',1,1,0,1,0),
+	 (156,156,4,60,305,'md_pokedex_data_category_name_305','md_pokedex_data_desc_305',1,1,0,1,0),
+	 (157,157,4,60,306,'md_pokedex_data_category_name_306','md_pokedex_data_desc_306',1,1,0,1,0),
+	 (158,158,4,60,425,'md_pokedex_data_category_name_425','md_pokedex_data_desc_425',1,1,0,1,0),
+	 (159,159,4,60,426,'md_pokedex_data_category_name_426','md_pokedex_data_desc_426',1,1,0,1,0),
+	 (160,160,4,60,778,'md_pokedex_data_category_name_778','md_pokedex_data_desc_778',1,1,0,1,0);

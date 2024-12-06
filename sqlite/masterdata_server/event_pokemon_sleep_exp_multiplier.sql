@@ -32,4 +32,29 @@ INSERT INTO event_pokemon_sleep_exp_multiplier (id,event_id,multiplier) VALUES
 	 (29,125,200),
 	 (30,126,300);
 INSERT INTO event_pokemon_sleep_exp_multiplier (id,event_id,multiplier) VALUES
-	 (31,127,200);
+	 (31,127,200),
+	 (32,143,200),
+	 (33,144,300),
+	 (34,145,200),
+	 (35,149,200),
+	 (36,150,300),
+	 (37,151,200),
+	 (38,152,150),
+	 (39,159,200),
+	 (40,160,300);
+INSERT INTO event_pokemon_sleep_exp_multiplier (id,event_id,multiplier) VALUES
+	 (41,161,200),
+	 (42,164,150),
+	 (43,165,200),
+	 (44,166,300),
+	 (45,167,200),
+	 (46,184,200),
+	 (47,185,300),
+	 (48,186,200),
+	 (49,196,200),
+	 (50,197,300);
+INSERT INTO event_pokemon_sleep_exp_multiplier (id,event_id,multiplier) VALUES
+	 (51,198,200),
+	 (52,205,200),
+	 (53,206,300),
+	 (54,207,200);

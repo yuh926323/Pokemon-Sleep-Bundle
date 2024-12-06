@@ -1,7 +1,7 @@
 INSERT INTO berries (id,name,energy,"desc") VALUES
 	 (1,'md_berries_name_1',28,'md_berries_desc_1'),
 	 (2,'md_berries_name_2',27,'md_berries_desc_2'),
-	 (3,'md_berries_name_3',31,'md_berries_desc_3'),
+	 (3,'md_berries_name_3',31,'md_berries_desc_3_v200'),
 	 (4,'md_berries_name_4',25,'md_berries_desc_4'),
 	 (5,'md_berries_name_5',30,'md_berries_desc_5'),
 	 (6,'md_berries_name_6',32,'md_berries_desc_6'),

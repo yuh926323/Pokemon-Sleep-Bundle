@@ -29,4 +29,30 @@ INSERT INTO event_sleep_power_multiplier (id,event_id,multiplier) VALUES
 	 (26,100001,150),
 	 (27,125,150),
 	 (28,126,250),
-	 (29,127,150);
+	 (29,127,150),
+	 (30,133,150);
+INSERT INTO event_sleep_power_multiplier (id,event_id,multiplier) VALUES
+	 (31,143,150),
+	 (32,144,200),
+	 (33,145,150),
+	 (34,149,150),
+	 (35,150,200),
+	 (36,151,150),
+	 (37,159,150),
+	 (38,160,200),
+	 (39,161,150),
+	 (40,165,150);
+INSERT INTO event_sleep_power_multiplier (id,event_id,multiplier) VALUES
+	 (41,166,300),
+	 (42,167,150),
+	 (43,173,150),
+	 (44,184,150),
+	 (45,185,250),
+	 (46,186,150),
+	 (47,196,150),
+	 (48,197,200),
+	 (49,198,150),
+	 (50,205,150);
+INSERT INTO event_sleep_power_multiplier (id,event_id,multiplier) VALUES
+	 (51,206,200),
+	 (52,207,150);

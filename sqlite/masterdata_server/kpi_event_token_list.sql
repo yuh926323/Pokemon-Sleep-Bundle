@@ -148,4 +148,53 @@ INSERT INTO kpi_event_token_list (id,event_name,token) VALUES
 	 (134,'ipa_pokemonsleep.bundle001','knwjt7'),
 	 (135,'use_dia_shop_49','4iqrv3'),
 	 (136,'use_dia_shop_50','t0ljtx'),
-	 (137,'use_dia_shop_51','20moy5');
+	 (137,'use_dia_shop_51','20moy5'),
+	 (138,'use_dia_shop_52','23r1if'),
+	 (139,'use_dia_shop_53','1ws6ie'),
+	 (140,'use_dia_shop_54','ew3pmh');
+INSERT INTO kpi_event_token_list (id,event_name,token) VALUES
+	 (141,'use_dia_shop_55','t0pszl'),
+	 (142,'use_dia_shop_56','diyquj'),
+	 (143,'use_dia_shop_57','5z4m3l'),
+	 (144,'use_dia_shop_58','1o0uey'),
+	 (145,'use_dia_shop_59','efj6uf'),
+	 (146,'use_dia_shop_60','qjn7h2'),
+	 (147,'use_dia_shop_61','xyxi5c'),
+	 (148,'use_dia_shop_62','dftfz4'),
+	 (149,'use_dia_shop_63','yskc1x'),
+	 (150,'use_dia_shop_64','h30a8s');
+INSERT INTO kpi_event_token_list (id,event_name,token) VALUES
+	 (151,'use_dia_shop_65','m0gubi'),
+	 (152,'use_dia_shop_66','ea1m85'),
+	 (153,'use_dia_shop_67','ofud4u'),
+	 (154,'ipa_pokemonsleep.bundle002','1kjhgo'),
+	 (155,'use_dia_shop_68','s0nonb'),
+	 (156,'use_dia_shop_69','1ywgh7'),
+	 (157,'use_dia_shop_70','hnn0tw'),
+	 (158,'use_dia_shop_71','btezgw'),
+	 (159,'use_dia_shop_72','u4z1ol'),
+	 (160,'use_dia_shop_73','a3kpgk');
+INSERT INTO kpi_event_token_list (id,event_name,token) VALUES
+	 (161,'use_dia_shop_74','ns3blu'),
+	 (162,'review_popup','41d2io'),
+	 (163,'use_dia_shop_75','55hwli'),
+	 (164,'use_dia_shop_76','ayclsj'),
+	 (165,'use_dia_shop_77','eqxr3j'),
+	 (166,'use_dia_shop_78','d7x511'),
+	 (167,'use_dia_shop_79','9b09xc'),
+	 (168,'use_dia_shop_80','d9s3co'),
+	 (169,'use_dia_shop_81','a7xugk'),
+	 (170,'use_dia_shop_82','1lc0ju');
+INSERT INTO kpi_event_token_list (id,event_name,token) VALUES
+	 (171,'use_dia_shop_83','l07uma'),
+	 (172,'use_dia_shop_84','31dixc'),
+	 (173,'use_dia_shop_85','vblagp'),
+	 (174,'use_dia_shop_86','tzyesk'),
+	 (175,'use_dia_shop_87','p2kcet'),
+	 (176,'use_dia_shop_88','8i8726'),
+	 (177,'use_dia_shop_89','kjj6pc'),
+	 (178,'use_dia_shop_90','ppphjx'),
+	 (179,'use_dia_shop_91','cyd4nb'),
+	 (180,'use_dia_shop_92','2yv842');
+INSERT INTO kpi_event_token_list (id,event_name,token) VALUES
+	 (181,'use_dia_shop_93','x7fjow');

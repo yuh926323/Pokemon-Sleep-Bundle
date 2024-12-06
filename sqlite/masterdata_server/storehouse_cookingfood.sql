@@ -26,4 +26,10 @@ INSERT INTO storehouse_cookingfood (id,"level",max_num,price) VALUES
 	 (23,23,540,120),
 	 (24,24,560,120),
 	 (25,25,580,120),
-	 (26,26,600,120);
+	 (26,26,600,120),
+	 (27,27,620,120),
+	 (28,28,640,120),
+	 (29,29,660,120),
+	 (30,30,680,120);
+INSERT INTO storehouse_cookingfood (id,"level",max_num,price) VALUES
+	 (31,31,700,120);

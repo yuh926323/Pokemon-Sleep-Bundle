@@ -678,4 +678,13 @@ INSERT INTO event_trade_item_sleeping_faces (id,sleeping_faces_id,research_item_
 	 (616,624,1,5,2,6,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
 	 (617,625,1,6,2,7,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
 	 (618,626,1,8,2,9,3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
-	 (619,627,1,9,2,10,3,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+	 (619,627,1,9,2,10,3,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
+	 (620,628,1,3,2,4,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO event_trade_item_sleeping_faces (id,sleeping_faces_id,research_item_id_1,research_num_1,research_item_id_2,research_num_2,research_item_id_3,research_num_3,research_item_id_4,research_num_4,research_item_id_5,research_num_5,research_item_id_6,research_num_6,research_item_id_7,research_num_7,research_item_id_8,research_num_8,research_item_id_9,research_num_9,research_item_id_10,research_num_10) VALUES
+	 (621,629,1,4,2,5,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
+	 (622,630,1,6,2,7,3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
+	 (623,631,1,7,2,8,3,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
+	 (624,632,1,6,2,7,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
+	 (625,633,1,7,2,8,3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
+	 (626,634,1,9,2,10,3,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0),
+	 (627,635,1,10,2,11,3,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

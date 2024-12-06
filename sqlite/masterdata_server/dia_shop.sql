@@ -135,4 +135,9 @@ INSERT INTO dia_shop (id,price,name,item_type,item_id,item_num,order_id,group_id
 	 (120,1500,'md_event_item_packs_name_3_v190',30,107,1,1,54,1,'use_dia_shop_15'),
 	 (121,250,'md_event_item_packs_name_84',30,108,1,1,55,3,'use_dia_shop_91'),
 	 (122,1200,'md_event_item_packs_name_85',30,109,1,2,55,1,'use_dia_shop_92'),
-	 (123,3000,'md_event_item_packs_name_86',30,110,1,3,55,1,'use_dia_shop_93');
+	 (123,3000,'md_event_item_packs_name_86',30,110,1,3,55,1,'use_dia_shop_93'),
+	 (124,1500,'md_event_item_packs_name_87',30,111,1,1,56,1,'use_dia_shop_94'),
+	 (125,250,'md_event_item_packs_name_71',30,112,1,1,57,3,'use_dia_shop_72'),
+	 (126,600,'md_event_item_packs_name_72',30,113,1,2,57,1,'use_dia_shop_73'),
+	 (127,1500,'md_event_item_packs_name_73',30,114,1,3,57,1,'use_dia_shop_74'),
+	 (128,1500,'md_event_item_packs_name_3_v190',30,115,1,1,58,1,'use_dia_shop_15');

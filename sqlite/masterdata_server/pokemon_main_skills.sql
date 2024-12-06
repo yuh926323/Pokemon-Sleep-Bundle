@@ -15,5 +15,5 @@ INSERT INTO pokemon_main_skills (id,name,short_name,effect_type,"desc",level_1,l
 	 (13,'md_pokemon_main_skills_name_14','md_pokemon_main_skill_ShortName_14',13,'md_pokemon_main_skills_desc_14',40,50,60,70,80,100,0,880,1251,1726,2383,3290,4546,0,0,0,6,1722470400),
 	 (14,'md_pokemon_main_skills_name_15','md_pokemon_main_skill_ShortName_15',11,'md_pokemon_main_skills_desc_15',2,3,3,4,4,5,0,2800,3902,5273,6975,9317,12438,0,0,0,6,1722470400),
 	 (15,'md_pokemon_main_skills_name_16','md_pokemon_main_skill_ShortName_16',14,'md_pokemon_main_skills_desc_16',600,853,1177,1625,2243,3099,4502,600,853,1177,1625,2243,3099,3984,0,0,7,1728619200),
-	 (16,'md_pokemon_main_skills_name_17','md_pokemon_main_skill_ShortName_17',15,'md_pokemon_main_skills_desc_17',8,10,15,17,19,21,0,1400,1991,2747,3791,5234,7232,0,0,0,6,1730127600),
+	 (16,'md_pokemon_main_skills_name_17','md_pokemon_main_skill_ShortName_17',15,'md_pokemon_main_skills_desc_17_v220',8,10,15,17,19,21,0,1400,1991,2747,3791,5234,7232,0,0,0,6,1730127600),
 	 (17,'md_pokemon_main_skills_name_18','md_pokemon_main_skill_ShortName_18',16,'md_pokemon_main_skills_desc_18',120,162,212,266,336,434,0,560,797,1099,1516,2094,2892,0,0,0,6,1722470400);

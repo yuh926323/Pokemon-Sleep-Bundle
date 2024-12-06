@@ -55,4 +55,7 @@ INSERT INTO event_sleep_power_multiplier (id,event_id,multiplier) VALUES
 	 (50,205,150);
 INSERT INTO event_sleep_power_multiplier (id,event_id,multiplier) VALUES
 	 (51,206,200),
-	 (52,207,150);
+	 (52,207,150),
+	 (53,215,150),
+	 (54,216,200),
+	 (55,217,150);

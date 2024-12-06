@@ -104,4 +104,5 @@ INSERT INTO item_name_data (id,item_type,item_id,name,"desc",desc_short) VALUES
 	 (93,32,2,'item_name_93','item_desc_93','item_desc_short_93'),
 	 (94,9,6,'item_name_94','item_desc_94','item_desc_short_94'),
 	 (95,9,7,'item_name_95','item_desc_95','item_desc_short_95'),
-	 (96,32,3,'item_name_96','item_desc_96','item_desc_short_96');
+	 (96,32,3,'item_name_96','item_desc_96','item_desc_short_96'),
+	 (97,28,13,'item_name_97','item_desc_97','item_desc_short_97');

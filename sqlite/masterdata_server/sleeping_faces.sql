@@ -678,4 +678,13 @@ INSERT INTO sleeping_faces (id,name,library_id,library_sub_id,display_name,pokem
 	 (624,'md_sleeping_faces_name_778-1',778,1,'お腹の上寝の',160,1,452,1049,1,1,6,0,30,518,1,0),
 	 (625,'md_sleeping_faces_name_778-2',778,2,'お腹の上寝の',160,2,1623,3774,2,1,8,0,48,584,1,0),
 	 (626,'md_sleeping_faces_name_778-3',778,3,'お腹の上寝の',160,3,6316,14690,3,1,10,0,72,458,1,0),
-	 (627,'md_sleeping_faces_name_onSnorlax',778,4,'お腹の上寝の',160,4,7797,18137,1,1,11,3,74,518,1,0);
+	 (627,'md_sleeping_faces_name_onSnorlax',778,4,'お腹の上寝の',160,4,7797,18137,1,1,11,3,74,518,1,0),
+	 (628,'md_sleeping_faces_name_215-1',215,1,'お腹の上寝の',161,1,236,465,1,1,6,0,21,511,1,0);
+INSERT INTO sleeping_faces (id,name,library_id,library_sub_id,display_name,pokemon_id,rarity,research_p,coin,face_type,"size",research_candy_num,on_snorlax,sleep_power_order,new_research_start_frame,ignore_tutorial,no_flip) VALUES
+	 (629,'md_sleeping_faces_name_215-2',215,2,'お腹の上寝の',161,2,1177,2324,2,1,8,0,41,488,1,0),
+	 (630,'md_sleeping_faces_name_215-3',215,3,'お腹の上寝の',161,3,2923,5772,3,1,10,0,55,345,1,0),
+	 (631,'md_sleeping_faces_name_onSnorlax',215,4,'お腹の上寝の',161,4,5123,10117,1,1,11,3,64,511,1,0),
+	 (632,'md_sleeping_faces_name_461-1',461,1,'お腹の上寝の',162,1,1454,2278,1,1,7,0,45,513,1,0),
+	 (633,'md_sleeping_faces_name_461-2',461,2,'お腹の上寝の',162,2,3745,5864,2,1,9,0,60,477,1,0),
+	 (634,'md_sleeping_faces_name_461-3',461,3,'お腹の上寝の',162,3,9930,15547,3,1,11,0,77,614,1,0),
+	 (635,'md_sleeping_faces_name_onSnorlax',461,4,'お腹の上寝の',162,4,13264,20767,1,1,12,3,81,513,1,0);

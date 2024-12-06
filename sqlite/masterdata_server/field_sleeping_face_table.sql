@@ -678,4 +678,13 @@ INSERT INTO field_sleeping_face_table (id,sleeping_face_id,pattern_id_icon) VALU
 	 (624,624,1),
 	 (625,625,1),
 	 (626,626,1),
-	 (627,627,1);
+	 (627,627,1),
+	 (628,628,1);
+INSERT INTO field_sleeping_face_table (id,sleeping_face_id,pattern_id_icon) VALUES
+	 (629,629,1),
+	 (630,630,1),
+	 (631,631,1),
+	 (632,632,1),
+	 (633,633,1),
+	 (634,634,1),
+	 (635,635,1);

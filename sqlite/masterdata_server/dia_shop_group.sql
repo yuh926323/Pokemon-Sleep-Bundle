@@ -60,4 +60,7 @@ INSERT INTO dia_shop_group (id,order_id,section_header_type,ms_label,event_id) V
 	 (52,0,1,'ShopScene_Content_Title_2',10036),
 	 (53,0,1,'ShopScene_Content_Title_2',10037),
 	 (54,0,1,'ShopScene_Content_Title_2',10038),
-	 (55,0,1,'ShopScene_Content_Title_2',10039);
+	 (55,0,1,'ShopScene_Content_Title_2',10039),
+	 (56,0,1,'ShopScene_Content_Title_2',10040),
+	 (57,0,1,'ShopScene_Content_Title_2',10041),
+	 (58,0,1,'ShopScene_Content_Title_2',10042);

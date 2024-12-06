@@ -197,4 +197,5 @@ INSERT INTO kpi_event_token_list (id,event_name,token) VALUES
 	 (179,'use_dia_shop_91','cyd4nb'),
 	 (180,'use_dia_shop_92','2yv842');
 INSERT INTO kpi_event_token_list (id,event_name,token) VALUES
-	 (181,'use_dia_shop_93','x7fjow');
+	 (181,'use_dia_shop_93','x7fjow'),
+	 (182,'use_dia_shop_94','422k7u');

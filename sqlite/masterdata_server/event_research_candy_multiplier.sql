@@ -10,4 +10,5 @@ INSERT INTO event_research_candy_multiplier (id,event_id,multiplier) VALUES
 	 (12,200,300),
 	 (13,201,200);
 INSERT INTO event_research_candy_multiplier (id,event_id,multiplier) VALUES
-	 (14,202,300);
+	 (14,202,300),
+	 (15,214,150);

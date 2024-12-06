@@ -16,7 +16,7 @@ INSERT INTO cooking_foods (id,name,narrow_name,memo_value,energy,"type",need_coo
 	 (14,'md_cooking_foods_name_14','md_cooking_foods_narrow_name_14',342,342,3,0,0,14,'md_cooking_foods_desc_14',50,120,140,30,40,40,70,70),
 	 (15,'md_cooking_foods_name_15','md_cooking_foods_narrow_name_15',100,100,3,0,0,4,'md_cooking_foods_desc_15',170,60,150,140,60,170,100,130),
 	 (16,'md_cooking_foods_name_16','md_cooking_foods_narrow_name_16',140,140,3,0,0,6,'md_cooking_foods_desc_16',160,50,90,80,50,100,110,140),
-	 (17,'md_cooking_foods_name_17','md_cooking_foods_narrow_name_17',153,153,3,0,0,6,'md_cooking_foods_desc_17',130,110,30,20,120,30,10,170),
+	 (17,'md_cooking_foods_name_17','md_cooking_foods_narrow_name_17',153,153,3,0,0,6,'md_cooking_foods_desc_17_v220',130,110,30,20,120,30,10,170),
 	 (1000,'md_cooking_foods_name_1000','md_cooking_foods_narrow_name_1000',0,0,1,0,0,0,'md_cooking_foods_desc_1000',0,0,0,0,0,0,0,0),
 	 (1001,'md_cooking_foods_name_1001','md_cooking_foods_narrow_name_1001',748,748,2,1,5:7,0,'md_cooking_foods_desc_1001',0,0,0,0,0,0,0,0),
 	 (1002,'md_cooking_foods_name_1002','md_cooking_foods_narrow_name_1002',7483,7483,3,1,14:8,6:25,0,'md_cooking_foods_desc_1002',0,0,0,0,0,0,0,0);

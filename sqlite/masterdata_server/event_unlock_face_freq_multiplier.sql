@@ -12,4 +12,7 @@ INSERT INTO event_unlock_face_freq_multiplier (id,event_id,pokemon_face_ids) VAL
 INSERT INTO event_unlock_face_freq_multiplier (id,event_id,pokemon_face_ids) VALUES
 	 (11,205,'0'),
 	 (12,206,'0'),
-	 (13,207,'0');
+	 (13,207,'0'),
+	 (14,215,'0'),
+	 (15,216,'0'),
+	 (16,217,'0');

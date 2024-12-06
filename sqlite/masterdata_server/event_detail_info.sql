@@ -2,7 +2,7 @@ INSERT INTO event_detail_info (id,name,short_name,name_indirect,unique_name,data
 	 (1,'none','none','none','none',2,0),
 	 (2,'none','none','none','none',3,0),
 	 (3,'none','none','none','none',3,0),
-	 (4,'md_event_detail_name_4','md_event_detail_name_4','md_event_detail_name_indirect_4','GoodSleepDay',1,2100003),
+	 (4,'md_event_detail_name_4','md_event_detail_name_4','md_event_detail_name_indirect_4','GoodSleepDay',1,2200002),
 	 (5,'md_event_detail_name_5','md_event_detail_name_5','md_event_detail_name_indirect_5','Halloween',1,0),
 	 (6,'md_event_detail_name_6','md_event_detail_short_name_6','md_event_detail_name_indirect_6','EeveeWeek',1,0),
 	 (7,'md_event_detail_name_7','md_event_detail_name_7','md_event_detail_name_indirect_7','Holiday',1,0),
@@ -34,7 +34,7 @@ INSERT INTO event_detail_info (id,name,short_name,name_indirect,unique_name,data
 INSERT INTO event_detail_info (id,name,short_name,name_indirect,unique_name,data_type,web_page_id) VALUES
 	 (31,'md_event_detail_name_16','md_event_detail_name_16','md_event_detail_name_indirect_16','SummerFestival',1,0),
 	 (32,'md_event_detail_name_16','md_event_detail_short_name_16','md_event_detail_name_indirect_16','SummerFestival',3,0),
-	 (33,'md_event_detail_name_17','md_event_detail_name_17','md_event_detail_name_indirect_17','SukusukuWeek',1,1100001),
+	 (33,'md_event_detail_name_17','md_event_detail_name_17','md_event_detail_name_indirect_17','SukusukuWeek',1,2200001),
 	 (34,'md_event_detail_name_18','md_event_detail_name_18','md_event_detail_name_indirect_18','1stAnniv',1,1090001),
 	 (35,'md_event_detail_name_18','md_event_detail_short_name_18_1','md_event_detail_name_indirect_18','1stAnniv',3,0),
 	 (36,'md_event_detail_name_18','md_event_detail_short_name_18_2','md_event_detail_name_indirect_18','1stAnniv',3,0),
